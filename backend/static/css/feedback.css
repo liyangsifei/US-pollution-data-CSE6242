@@ -1,0 +1,37 @@
+
+h1 {
+	font-family: Georgia, serif;
+}
+body {
+	font: 11px sans-serif;
+}
+.nav-bar{
+	padding-top: 12px;
+  background-color: #3d7c69;
+	padding-left: 50px;
+	height: 125px;
+}
+.sub-nav{
+	background-color: #79c9b1;
+}
+.head-btn {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.space{
+	height: 100px;
+}
+.question-bar{
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+.question-text{
+	font-size: 18px;
+}
+h1 {font-family: Arial, sans-serif;}
+body {
+	font: 11px Arial;
+}
+.rating{
+	margin-left: 5px;
+}

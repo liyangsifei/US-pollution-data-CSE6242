@@ -1,0 +1,27 @@
+.head {
+  margin:0;
+  padding:0;
+  height:200px; }
+
+.space {
+  margin:0;
+  padding:0;
+  height:100px; }
+
+.button{
+  margin:50px;
+  height:100px;
+}
+.indexBtn{
+  margin:10px;
+}
+body {
+  background-image:url('https://cdn.pixabay.com/photo/2020/07/04/10/02/industry-5369033_960_720.jpg');
+  /*background-repeat:no-repeat;*/
+  background-attachment:fixed;
+  background-position:center;
+}
+h1 {font-family: Arial, sans-serif;}
+body {
+	font: 11px Arial;
+}

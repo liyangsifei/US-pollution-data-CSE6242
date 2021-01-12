@@ -1,0 +1,17 @@
+<script  src="{{ url_for('static', filename="js/lib/d3.v5.min.js")}}"></script>
+
+
+for d3 v5  rounting method 
+https://stackoverflow.com/questions/53716527/request-data-from-front-end-d3-json-from-python-flask-backend
+
+mongo db
+https://zellwk.com/blog/install-mongodb/
+
+python and mongodb
+https://ithelp.ithome.com.tw/articles/10191408
+
+flask and d3
+https://benalexkeen.com/creating-graphs-using-flask-and-d3/
+
+switch page:
+https://stackoverflow.com/questions/27539309/how-do-i-create-a-link-to-another-html-page

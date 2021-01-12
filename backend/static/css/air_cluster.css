@@ -1,0 +1,98 @@
+.nav-bar{
+	padding-top: 12px;
+  background-color: #3d7c69;
+	padding-left: 40px;
+	height: 125px;
+}
+.sub-nav{
+	background-color: #79c9b1;
+}
+.head-btn {
+	margin-right: 20px;
+}
+#container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#pollution_details{
+	display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+/* On mouse hover, lighten state color */
+path:hover {
+	fill-opacity: .7;
+}
+.ticks {
+	font-size: 10px;
+}
+.track,
+.track-inset,
+.track-overlay {
+	stroke-linecap: round;
+}
+.track {
+  stroke: #000;
+  stroke-opacity: 0.3;
+  stroke-width: 10px;
+}
+.track-inset {
+  stroke: #dcdcdc;
+  stroke-width: 8px;
+}
+.track-overlay {
+  pointer-events: stroke;
+  stroke-width: 50px;
+  stroke: transparent;
+  cursor: crosshair;
+}
+.handle {
+	fill: #fff;
+  stroke: #000;
+  stroke-opacity: 0.5;
+  stroke-width: 1.25px;
+}
+.states :hover {
+  fill:  lightblue;
+}
+.state-borders {
+  fill: none;
+  stroke: #fff;
+  stroke-width: 0.5px;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+  pointer-events: none;
+
+}
+.d3-tip {
+	 line-height: 1.2;
+	 padding: 15px;
+	 background: rgba(50, 50, 50, 0.8);
+	 color: #fff;
+	 border-radius: 2px;
+}
+div.tooltip {
+ 	position: absolute;
+	text-align: center;
+	width: 60px;
+	height: 28px;
+	padding: 2px;
+	font: 12px sans-serif;
+	background: white;
+	border: 0px;
+	border-radius: 8px;
+	pointer-events: none;
+}
+
+.legend {
+	position:absolute;
+	left:800px;
+	top:350px;
+}
+h1 {font-family: Arial, sans-serif;}
+body {
+	font: 11px Arial;
+}

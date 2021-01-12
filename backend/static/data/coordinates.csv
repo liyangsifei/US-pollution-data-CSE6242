@@ -1,0 +1,1328 @@
+State,County,City,Latitude,Longitude
+Alabama,Baldwin,Fairhope,30.497478,-87.880258
+Alabama,Colbert,Muscle Shoals,34.762619,-87.638097
+Alabama,DeKalb,Crossville,34.289001,-85.97006499999998
+Alabama,Elmore,Wetumpka,32.537022,-86.24376999999998
+Alabama,Etowah,Southside,33.904039000000004,-86.05386700000001
+Alabama,Houston,Dothan,31.188933000000002,-85.42309399999998
+Alabama,Jefferson,Birmingham,33.547233899999995,-86.81815029999999
+Alabama,Jefferson,Fairfield,33.485555999999995,-86.915
+Alabama,Jefferson,Hoover,33.386389,-86.81666700000001
+Alabama,Jefferson,Leeds,33.545278,-86.54916700000001
+Alabama,Jefferson,Not in a city,33.566388999999994,-86.9730555
+Alabama,Jefferson,Tarrant (corporate name for Tarrant City),33.578333,-86.773889
+Alabama,Madison,Huntsville,34.730244,-86.671268
+Alabama,Mobile,Chickasaw,30.770181,-88.087761
+Alabama,Mobile,Theodore,30.474305,-88.14102199999998
+Alabama,Montgomery,Montgomery,32.412811,-86.26339399999998
+Alabama,Morgan,Decatur,34.530717,-86.967536
+Alabama,Russell,Ladonia,32.46735,-85.08344699999998
+Alabama,Russell,Phenix City,32.437028000000005,-84.99965300000001
+Alabama,Shelby,Calera,33.092800000000004,-86.80720000000002
+Alabama,Shelby,Helena,33.317142,-86.82575399999998
+Alabama,Sumter,Not in a city,32.362606,-88.277992
+Alabama,Tuscaloosa,Tuscaloosa,33.089772,-87.459733
+Alaska,Anchorage ,Anchorage,61.205861,-149.824602
+Alaska,Denali ,Not in a city,63.72320000000001,-148.9676
+Alaska,Fairbanks North Star ,Fairbanks,64.84568999999999,-147.72741299999998
+Alaska,Matanuska-Susitna ,Palmer,61.598898,-149.10622
+Arizona,Cochise,Not in a city,32.009409999999995,-109.38906000000001
+Arizona,Coconino,Flagstaff,35.206111,-111.652777
+Arizona,Coconino,Grand Canyon Village,36.058640000000004,-112.1836
+Arizona,Gila,Hayden,33.006179,-110.785797
+Arizona,Gila,Miami,33.398284,-110.86667299999999
+Arizona,Gila,Not in a city,33.3855,-110.867267
+Arizona,Gila,Tonto National Monument,33.6547,-111.1074
+Arizona,La Paz,Wenden,34.243900000000004,-113.5586
+Arizona,Maricopa,Blue Point (District),33.54558,-111.60972
+Arizona,Maricopa,Buckeye,33.36985,-112.62068000000001
+Arizona,Maricopa,Cave Creek,33.821690000000004,-112.01726000000001
+Arizona,Maricopa,Chandler,33.29896,-111.88426000000001
+Arizona,Maricopa,Fort McDowell,33.629246,-111.676928
+Arizona,Maricopa,Fountain Hills,33.61092,-111.72533999999999
+Arizona,Maricopa,Glendale,33.57453,-112.19193
+Arizona,Maricopa,Mesa,33.44263176363636,-111.8060349151515
+Arizona,Maricopa,Not in a city,33.665371625000006,-111.96457487500001
+Arizona,Maricopa,Phoenix,33.47632722071429,-112.08775400362434
+Arizona,Maricopa,Rio Verde,33.71881,-111.67183
+Arizona,Maricopa,Scottsdale,33.554024976105445,-111.84708418574264
+Arizona,Maricopa,Surprise,33.63718,-112.34185
+Arizona,Maricopa,Tempe,33.40373,-111.95134999999999
+Arizona,Navajo,Not in a city,34.82251,-109.89249
+Arizona,Pima,Green Valley,31.87952,-110.99643999999999
+Arizona,Pima,Marana,32.4030405,-111.09534000000001
+Arizona,Pima,Not in a city,32.174538,-110.73711599999999
+Arizona,Pima,Tucson,32.20266516354167,-110.90862240000001
+Arizona,Pinal,Apache Junction,33.4214,-111.5436
+Arizona,Pinal,Casa Grande,32.954361,-111.76225
+Arizona,Pinal,Queen Valley,33.293465000000005,-111.28559399999999
+Arizona,Pinal,Red Rock,32.508306,-111.30805600000001
+Arizona,Pinal,Sacaton,33.081703999999995,-111.75294299999999
+Arizona,Yavapai,Prescott,34.612055,-112.46321299999998
+Arizona,Yuma,Yuma,32.690278,-114.61443999999999
+Arkansas,Clark,Not in a city,34.179500000000004,-93.0988
+Arkansas,Crittenden,Marion,35.197288,-90.193141
+Arkansas,Newton,Not in a city,35.832726,-93.20826
+Arkansas,Polk,Mena,34.454514,-94.143521
+Arkansas,Pulaski,North Little Rock,34.776072,-92.27611725
+Arkansas,Washington,Fayetteville,36.011703000000004,-94.167436
+Arkansas,Washington,Springdale,36.1797,-94.116827
+California,Alameda,Hayward,37.654456,-122.031547
+California,Alameda,Livermore,37.687526,-121.784217
+California,Alameda,Not in a city,37.820979,-122.13503474999999
+California,Alameda,Oakland,37.78218988888889,-122.23441544444445
+California,Alameda,Pleasanton,37.701221999999994,-121.903019
+California,Amador,Jackson,38.342606,-120.764426
+California,Butte,Chico,39.76168,-121.84047
+California,Butte,Not in a city,39.708454,-121.617309
+California,Calaveras,San Andreas,38.20185,-120.680277
+California,Colusa,Colusa,39.18919,-121.99887
+California,Contra Costa,Bethel Island,38.006311,-121.64191799999999
+California,Contra Costa,Concord,37.936013,-122.026154
+California,Contra Costa,Crockett,38.05492,-122.23322900000001
+California,Contra Costa,Martinez,38.012816,-122.13446699999999
+California,Contra Costa,Richmond,37.948172,-122.364852
+California,Contra Costa,San Pablo,37.9604,-122.35681100000001
+California,Contra Costa,San Ramon,37.743649,-121.93418799999999
+California,El Dorado,Not in a city,38.85127549999999,-120.5182285
+California,El Dorado,Placerville,38.725282,-120.82191599999999
+California,Fresno,Clovis,36.819449,-119.71643300000001
+California,Fresno,Fresno,36.79918776666667,-119.82130520000001
+California,Fresno,Not in a city,36.774939333333336,-119.92733399999999
+California,Fresno,Parlier,36.597442,-119.50365900000001
+California,Glenn,Not in a city,39.53387,-122.19083400000001
+California,Humboldt,Eureka,40.77678,-124.17948999999999
+California,Humboldt,Not in a city,40.71528,-124.20138999999999
+California,Imperial,Calexico,32.676179999999995,-115.48307
+California,Imperial,El Centro,32.79222,-115.56306
+California,Imperial,Not in a city,33.213611,-115.54528
+California,Imperial,Westmorland,33.0325,-115.62361000000001
+California,Inyo,Bishop,37.362137,-118.417478
+California,Inyo,Not in a city,36.934647500000004,-117.58928050000002
+California,Kern,Arvin,35.23918,-118.78863
+California,Kern,Bakersfield,35.34713623333334,-119.03421553333332
+California,Kern,Maricopa,35.051454,-119.40262
+California,Kern,Mojave,35.050551,-118.14729399999999
+California,Kern,Not in a city,35.345607,-118.851825
+California,Kern,Oildale,35.438035,-119.01678700000001
+California,Kern,Shafter,35.503587,-119.27260600000001
+California,Kings,Hanford,36.315670000000004,-119.643447
+California,Kings,Not in a city,36.233274,-119.76621200000001
+California,Lake,Lakeport,39.025814999999994,-122.91781
+California,Los Angeles,Azusa,34.136500000000005,-117.92391
+California,Los Angeles,Compton,33.901389,-118.205
+California,Los Angeles,Glendora,34.14435,-117.85036000000001
+California,Los Angeles,Lancaster,34.669739,-118.13051100000001
+California,Los Angeles,Long Beach,33.831081,-118.2103535
+California,Los Angeles,Los Angeles,34.015476666666665,-118.32020125000001
+California,Los Angeles,Pasadena,34.132600000000004,-118.1272
+California,Los Angeles,Pico Rivera,34.010290000000005,-118.0685
+California,Los Angeles,Pomona,34.067029999999995,-117.7514
+California,Los Angeles,Reseda,34.19925,-118.53276000000001
+California,Los Angeles,Santa Clarita,34.38344,-118.5284
+California,Los Angeles,West Los Angeles,34.051109999999994,-118.45636
+California,Madera,Madera,36.9101905,-120.0221805
+California,Marin,San Rafael,37.97231,-122.520004
+California,Mariposa,Not in a city,37.628510000000006,-119.77288499999999
+California,Mendocino,Ukiah,39.14566,-123.20298000000001
+California,Merced,Not in a city,37.281853000000005,-120.43367099999999
+California,Monterey,Carmel Valley Village,36.48187,-121.73333000000001
+California,Monterey,King City,36.209286,-121.12637099999999
+California,Monterey,Salinas,36.694261,-121.623271
+California,Napa,Napa,38.294895499999996,-122.28560650000001
+California,Nevada,Grass Valley,39.233477,-121.055608
+California,Orange,Anaheim,33.824962500000005,-117.9286045
+California,Orange,Costa Mesa,33.674640000000004,-117.92568
+California,Orange,La Habra,33.92513,-117.95263999999999
+California,Orange,Mission Viejo,33.63003,-117.67593000000001
+California,Placer,Auburn,38.93568,-121.09958999999999
+California,Placer,Colfax,39.100174,-120.953832
+California,Placer,Lincoln,38.8767325,-121.3207485
+California,Placer,Roseville,38.74643,-121.26498000000001
+California,Placer,Tahoe City,39.166017,-120.14883300000001
+California,Riverside,Banning,33.9327865,-116.84424200000001
+California,Riverside,Blythe,33.61235,-114.60208999999999
+California,Riverside,Indio,33.71132,-116.2089525
+California,Riverside,Joshua Tree National Monument,33.842701000000005,-115.61552150000001
+California,Riverside,Lake Elsinore,33.67649,-117.33098000000001
+California,Riverside,Mira Loma,33.99636,-117.4924
+California,Riverside,Not in a city,33.532195944444446,-116.8599605
+California,Riverside,Palm Springs,33.85275,-116.54101000000001
+California,Riverside,Perris,33.78942,-117.22764
+California,Riverside,Rubidoux,33.99958,-117.41601000000001
+California,Sacramento,Arden-Arcade,38.613779,-121.36801399999999
+California,Sacramento,Folsom,38.683304,-121.16445700000001
+California,Sacramento,Not in a city,38.503052000000004,-121.33768633333332
+California,Sacramento,Sacramento,38.60418166666667,-121.501224
+California,San Benito,Hollister,36.843425,-121.3621
+California,San Benito,Not in a city,36.48324,-121.15688
+California,San Bernardino,Barstow,34.89398,-117.024804
+California,San Bernardino,Crestline,34.2431,-117.27235
+California,San Bernardino,Fontana,34.10002,-117.49201000000001
+California,San Bernardino,Hesperia,34.41639,-117.2858
+California,San Bernardino,Kelso,35.1019,-115.7767
+California,San Bernardino,Not in a city,34.26214875,-117.03940125
+California,San Bernardino,Ontario,34.0494765,-117.57150499999999
+California,San Bernardino,Redlands,34.05977,-117.14731
+California,San Bernardino,San Bernardino,34.101395999999994,-117.28379974999999
+California,San Bernardino,Searles Valley,35.77417,-117.3714
+California,San Bernardino,Upland,34.10374,-117.62913999999999
+California,San Bernardino,Victorville,34.510961,-117.32553999999999
+California,San Diego,Alpine,32.842318,-116.768293
+California,San Diego,Boulevard,32.725226,-116.36520300000001
+California,San Diego,Camp Pendleton South,33.217055,-117.39617700000001
+California,San Diego,Chula Vista,32.631242,-117.05908799999999
+California,San Diego,Del Mar,32.952124,-117.26408799999999
+California,San Diego,El Cajon,32.789565,-116.944308
+California,San Diego,Otay Mesa,32.57816,-116.92135
+California,San Diego,Pala,33.362593,-117.09023
+California,San Diego,San Diego,32.846992638888885,-117.1169108611111
+California,San Francisco,San Francisco,37.765946,-122.39904399999999
+California,San Joaquin,Stockton,37.950741,-121.268523
+California,San Joaquin,Tracy,37.682635,-121.442495
+California,San Luis Obispo,Atascadero,35.49453,-120.66617
+California,San Luis Obispo,El Paso de Robles (corporate name for Paso Robles),35.614668,-120.656912
+California,San Luis Obispo,Morro Bay,35.36631,-120.84271000000001
+California,San Luis Obispo,Nipomo,35.026145,-120.532455
+California,San Luis Obispo,Not in a city,35.4992,-120.13577
+California,San Luis Obispo,San Luis Obispo,35.25651,-120.6693
+California,San Mateo,Redwood City,37.482934,-122.20336999999999
+California,Santa Barbara,Capitan,34.476094999999994,-120.03621500000001
+California,Santa Barbara,Carpinteria,34.403051999999995,-119.45791399999999
+California,Santa Barbara,Gaviota,34.527440000000006,-120.1965
+California,Santa Barbara,Goleta,34.44551,-119.8284
+California,Santa Barbara,Isla Vista,34.414942,-119.879511
+California,Santa Barbara,Lompoc,34.68523316666666,-120.44190920833333
+California,Santa Barbara,Los Padres National Forest,34.54166,-119.79146000000001
+California,Santa Barbara,Not in a city,34.605819,-120.075069
+California,Santa Barbara,Santa Barbara,34.427775,-119.691218
+California,Santa Barbara,Santa Maria,34.942871999999994,-120.43561100000001
+California,Santa Barbara,Vandenberg Air Force Base,34.5959,-120.63131499999999
+California,Santa Clara,Gilroy,36.999571,-121.574684
+California,Santa Clara,Los Gatos,37.226862,-121.979675
+California,Santa Clara,San Jose,37.343316,-121.8723405
+California,Santa Clara,San Martin,37.079379,-121.600031
+California,Santa Cruz,Live Oak,36.98332,-121.98822
+California,Shasta,Anderson,40.452913,-122.29886599999999
+California,Shasta,Not in a city,40.53999,-121.57646000000001
+California,Shasta,Redding,40.55013,-122.38091999999999
+California,Shasta,Shasta Lake,40.689253,-122.402194
+California,Siskiyou,Yreka,41.726892,-122.633579
+California,Solano,Fairfield,38.227066,-122.075624
+California,Solano,Vacaville,38.35655,-121.94986000000002
+California,Solano,Vallejo,38.102507,-122.237976
+California,Sonoma,Healdsburg,38.654069,-122.901857
+California,Sonoma,Sebastopol,38.403765,-122.818294
+California,Stanislaus,Modesto,37.642165000000006,-120.994212
+California,Stanislaus,Turlock,37.488317,-120.836008
+California,Sutter,Sutter,39.205572,-121.82036200000002
+California,Sutter,Yuba City,39.138773,-121.618549
+California,Tehama,Not in a city,40.262072,-122.092766
+California,Tehama,Red Bluff,40.17093,-122.25556
+California,Tulare,Not in a city,36.527799,-118.803425
+California,Tulare,Porterville,36.031831,-119.05501799999999
+California,Tulare,Visalia,36.332179,-119.291228
+California,Tuolumne,Sonora,37.98178,-120.378551
+California,Ventura,Not in a city,34.252390000000005,-119.14318200000001
+California,Ventura,Ojai,34.448057,-119.23129899999999
+California,Ventura,Piru,34.404281,-118.80998000000001
+California,Ventura,Simi Valley,34.276315999999994,-118.68368500000001
+California,Ventura,Thousand Oaks,34.210169,-118.87050900000001
+California,Yolo,Not in a city,38.53445,-121.7734
+California,Yolo,Woodland,38.66121,-121.73269
+Colorado,Adams,Welby,39.838119,-104.94984
+Colorado,Arapahoe,Not in a city,39.638522,-104.569335
+Colorado,Arapahoe,Southglenn,39.567887,-104.95719299999999
+Colorado,Archuleta,Not in a city,37.205862,-107.25411799999999
+Colorado,Boulder,Boulder,40.070016,-105.220238
+Colorado,Chaffee,Not in a city,38.91,-106.001
+Colorado,Clear Creek,Not in a city,39.718695499999995,-105.67799000000002
+Colorado,Delta,Not in a city,38.8764,-107.6023
+Colorado,Denver,Denver,39.76194955555556,-104.99868600694445
+Colorado,Douglas,Roxborough Park,39.534488,-105.07035800000001
+Colorado,El Paso,Air Force Academy,38.958341,-104.817215
+Colorado,El Paso,Colorado Springs,38.830895,-104.83924300000001
+Colorado,El Paso,Manitou Springs (Manitou),38.853097,-104.90128899999999
+Colorado,Garfield,Battlement Mesa,39.43806,-108.02611
+Colorado,Garfield,Not in a city,39.554399242424246,-107.55935260606061
+Colorado,Garfield,Rifle,39.54182,-107.784125
+Colorado,Gilpin,Black Hawk,39.792519,-105.49127
+Colorado,Grand,Kremmling,40.058,-106.37
+Colorado,Gunnison,Not in a city,39.0232,-107.1099
+Colorado,Jefferson,Applewood,39.743724,-105.177989
+Colorado,Jefferson,Aspen Park,39.541515000000004,-105.29841
+Colorado,Jefferson,Lakewood,39.638781,-105.13948
+Colorado,Jefferson,Not in a city,39.912799,-105.18858700000001
+Colorado,La Plata,Not in a city,37.18108333333334,-107.66100533333334
+Colorado,Larimer,Fort Collins,40.5850065,-105.110021
+Colorado,Larimer,Not in a city,40.431149444444436,-105.60296222222222
+Colorado,Mesa,Grand Junction,39.064289,-108.56155
+Colorado,Mesa,Not in a city,39.135,-107.97000000000001
+Colorado,Mesa,Palisade,39.130575,-108.31383500000001
+Colorado,Moffat,Not in a city,40.329253,-108.49423999999999
+Colorado,Montezuma,Cortez,37.350054,-108.59233400000001
+Colorado,Montezuma,Not in a city,37.1984,-108.49046000000001
+Colorado,Montrose,Not in a city,38.342743,-108.99495
+Colorado,Park,Not in a city,39.328639,-105.869028
+Colorado,Rio Blanco,Not in a city,40.038889000000005,-107.8475
+Colorado,Rio Blanco,Rangely,40.086944,-108.761389
+Colorado,San Miguel,Norwood,38.13200000000001,-108.285
+Colorado,Teller,Not in a city,39.101,-105.09299999999999
+Colorado,Weld,Greeley,40.386368,-104.73744
+Colorado,Weld,Not in a city,40.731500000000004,-104.18299999999999
+Connecticut,Fairfield,Bridgeport,41.170833,-73.194722
+Connecticut,Fairfield,Danbury,41.399167,-73.443056
+Connecticut,Fairfield,Greenwich (Town of),41.004657,-73.585128
+Connecticut,Fairfield,Stratford (Town of),41.1525,-73.10305600000001
+Connecticut,Fairfield,Westport,41.118333,-73.33666699999998
+Connecticut,Hartford,East Hartford,41.784722,-72.63166700000001
+Connecticut,Hartford,Hartford,41.771444,-72.679923
+Connecticut,Litchfield,Cornwall,41.821342,-73.297257
+Connecticut,Middlesex,Middletown,41.551097999999996,-72.6280075
+Connecticut,New Haven,Madison (Town of),41.256788,-72.55327
+Connecticut,New Haven,New Haven,41.3014,-72.90287099999998
+Connecticut,New London,Groton,41.35362,-72.07882
+Connecticut,Tolland,Stafford (Stafford Hollow),41.976389000000005,-72.38805599999998
+Connecticut,Windham,Not in a city,41.84046,-72.010368
+Country Of Mexico,SONORA,Not in a city,32.466389,-114.768611
+Delaware,Kent,Not in a city,38.986672,-75.55680000000002
+Delaware,New Castle,Delaware City,39.57768,-75.6036
+Delaware,New Castle,Not in a city,39.714137,-75.597426
+Delaware,New Castle,Wilmington,39.739444,-75.55805600000001
+Delaware,Sussex,Lewes,38.7791,-75.16323
+Delaware,Sussex,Seaford,38.6539,-75.6106
+District Of Columbia,District of Columbia,Washington,38.917571645833334,-76.98522347916666
+Florida,Alachua,Micanopy,29.566112,-82.26608
+Florida,Baker,Not in a city,30.201111,-82.44111099999998
+Florida,Bay,Lower Grand Lagoon,30.130433,-85.73151700000001
+Florida,Brevard,Cocoa Beach,28.310840999999996,-80.61533
+Florida,Brevard,Melbourne,28.053611,-80.62861099999998
+Florida,Broward,Dania,26.088421,-80.111193
+Florida,Broward,Davie,26.063712500000005,-80.29769699999999
+Florida,Broward,Fort Lauderdale,26.130644,-80.1685195
+Florida,Broward,Pompano Beach Highlands,26.292025,-80.09647
+Florida,Citrus,Not in a city,28.958644,-82.64296499999998
+Florida,Collier,Naples,26.270083000000003,-81.710959
+Florida,Columbia,Lake City,30.178056,-82.61916699999998
+Florida,Duval,Jacksonville,30.33800649999999,-81.63100799242422
+Florida,Escambia,Ferry Pass,30.525367,-87.20354999999998
+Florida,Escambia,Pensacola,30.36805,-87.270967
+Florida,Flagler,Bunnell,29.489083,-81.276833
+Florida,Hamilton,White Springs,30.42659,-82.794715
+Florida,Highlands,Sebring,27.189215,-81.34035
+Florida,Hillsborough,Apollo Beach,27.779712,-82.41983499999998
+Florida,Hillsborough,Ruskin,27.740033,-82.46514599999998
+Florida,Hillsborough,Tampa,27.907960214285715,-82.46654657142858
+Florida,Hillsborough,Valrico,27.96565,-82.2304
+Florida,Holmes,Not in a city,30.848611,-85.603889
+Florida,Indian River,Not in a city,27.8492,-80.4554
+Florida,Lake,Clermont,28.523889,-81.723333
+Florida,Lee,Cape Coral,26.548212,-81.981523
+Florida,Lee,Fort Myers Beach,26.449246999999996,-81.939256
+Florida,Leon,Tallahassee,30.439721999999996,-84.346389
+Florida,Liberty,Not in a city,30.1103,-84.9903
+Florida,Manatee,Bradenton,27.465318,-82.570375
+Florida,Manatee,Not in a city,27.638925,-82.547648
+Florida,Manatee,Palmetto,27.633089000000002,-82.54593
+Florida,Marion,Ocala,29.181643499999996,-82.1368975
+Florida,Martin,Stuart,27.172458000000002,-80.240689
+Florida,Miami-Dade,Cutler Ridge,25.587327,-80.32592199999998
+Florida,Miami-Dade,Miami,25.7638438,-80.25346725
+Florida,Miami-Dade,Not in a city,25.68333,-80.399722
+Florida,Nassau,Fernandina Beach,30.658552,-81.46316800000001
+Florida,Okaloosa,Fort Walton Beach,30.426533000000003,-86.666217
+Florida,Orange,Orlando,28.49469,-81.382714
+Florida,Orange,Winter Park,28.596389000000002,-81.3625
+Florida,Osceola,Kissimmee,28.347509000000002,-81.63646399999998
+Florida,Palm Beach,Lantana,26.593808000000003,-80.058492
+Florida,Palm Beach,Not in a city,26.687606,-80.219619
+Florida,Pasco,Dade City,28.332225,-82.30564299999998
+Florida,Pasco,Holiday,28.195574,-82.756264
+Florida,Pinellas,Clearwater,27.9197445,-82.70607249999998
+Florida,Pinellas,Saint Petersburg,27.823511874999998,-82.6827105
+Florida,Pinellas,Tarpon Springs,28.115983,-82.7202145
+Florida,Polk,Lakeland,27.984317500000003,-81.986153
+Florida,Putnam,Not in a city,29.687748,-81.656509
+Florida,Santa Rosa,Gulf Breeze,30.394133,-87.008033
+Florida,Sarasota,Sarasota,27.328773,-82.52504899999998
+Florida,Sarasota,Venice,27.089194,-82.362583
+Florida,Seminole,Sanford,28.746111,-81.31055599999998
+Florida,St. Lucie,Fort Pierce,27.389079,-80.311033
+Florida,Volusia,Daytona Beach,29.206667,-81.05250000000002
+Florida,Volusia,Port Orange,29.109151,-80.99366599999998
+Florida,Wakulla,Saint Marks,30.0925,-84.16111099999998
+Georgia,Bibb,Macon,32.805264,-83.54349300000001
+Georgia,Chatham,Savannah,32.0796295,-81.089821
+Georgia,Chattooga,Summerville,34.474526000000004,-85.408847
+Georgia,Clarke,Athens (corp name Athens-Clarke County),33.918137,-83.344385
+Georgia,Cobb,Kennesaw,34.015436,-84.607423
+Georgia,Columbia,Evans,33.582044,-82.131249
+Georgia,Coweta,Not in a city,33.40405,-84.745728
+Georgia,Dawson,Not in a city,34.376227,-84.059506
+Georgia,DeKalb,Atlanta,33.698643,-84.27261399999998
+Georgia,DeKalb,Not in a city,33.6878,-84.29050000000002
+Georgia,Douglas,Douglasville,33.741242,-84.77642900000001
+Georgia,Floyd,Rome,34.2434,-85.3259
+Georgia,Fulton,Atlanta,33.749571,-84.374358
+Georgia,Glynn,Brunswick,31.169805,-81.495035
+Georgia,Gwinnett,Not in a city,33.9632,-84.0691
+Georgia,Henry,McDonough,33.433949,-84.161811
+Georgia,Murray,Chatsworth,34.785219,-84.626423
+Georgia,Muscogee,Columbus,32.521272,-84.94463499999998
+Georgia,Pike,Not in a city,33.1787,-84.40520000000002
+Georgia,Richmond,Augusta,33.4339,-82.0224
+Georgia,Rockdale,Conyers,33.588545,-84.069608
+Georgia,Sumter,Leslie (RR name Leslie-DeSoto),31.954286,-84.08100999999998
+Hawaii,Hawaii,Hawaii Volcanoes National Park,19.425653,-155.27282649999998
+Hawaii,Hawaii,Hawaiian Ocean View,19.117561,-155.77813600000002
+Hawaii,Hawaii,Hilo,19.717562,-155.11052999999995
+Hawaii,Hawaii,Kealakekua,19.509778,-155.91341699999995
+Hawaii,Hawaii,Leilani Estates,19.463989,-154.898706
+Hawaii,Hawaii,Mountain View,19.555444,-155.102028
+Hawaii,Hawaii,Pahala,19.2039,-155.480183
+Hawaii,Honolulu,Honolulu,21.305481,-157.8632955
+Hawaii,Honolulu,Not in a city,21.343952000000005,-158.09625112499998
+Hawaii,Honolulu,Pearl City,21.390861,-157.96525
+Hawaii,Kauai,Not in a city,21.949599,-159.36624
+Idaho,Ada,Boise (corporate name Boise City),43.596991,-116.1909865
+Idaho,Ada,Meridian,43.593929,-116.38125
+Idaho,Ada,Not in a city,43.600699,-116.347853
+Idaho,Bannock,Pocatello,42.916389,-112.515833
+Idaho,Butte,Not in a city,43.460556,-113.56222199999999
+Idaho,Caribou,Soda Springs,42.695198,-111.594669
+Idaho,Idaho,Not in a city,46.2756,-116.0216
+Illinois,Adams,Quincy,39.915409000000004,-91.335868
+Illinois,Champaign,Bondville,40.05278,-88.37250999999998
+Illinois,Champaign,Thomasboro,40.244913000000004,-88.188519
+Illinois,Clark,Not in a city,39.210857,-87.668297
+Illinois,Cook,Alsip,41.670992,-87.732457
+Illinois,Cook,Chicago,41.81767583333333,-87.68792004761906
+Illinois,Cook,Cicero,41.855243,-87.75247
+Illinois,Cook,Des Plaines,42.060285,-87.863225
+Illinois,Cook,Evanston,42.062053000000006,-87.67525400000001
+Illinois,Cook,Lansing,41.57862,-87.557406
+Illinois,Cook,Lemont,41.66812,-87.99056999999998
+Illinois,Cook,Northbrook,42.139996000000004,-87.799227
+Illinois,Cook,Schiller Park,41.965193,-87.87626499999998
+Illinois,DuPage,Lisle,41.813049,-88.07282699999998
+Illinois,Effingham,Effingham,39.067159000000004,-88.548934
+Illinois,Hamilton,Not in a city,38.082155,-88.624943
+Illinois,Jersey,Jerseyville,39.105989,-90.334287
+Illinois,Jo Daviess,Not in a city,42.2869,-89.9997
+Illinois,Kane,Elgin,42.049148,-88.27302900000001
+Illinois,La Salle,Oglesby,41.293015000000004,-89.049425
+Illinois,Lake,Zion,42.467573,-87.810047
+Illinois,Macon,Decatur,39.861628700000004,-88.92148513333332
+Illinois,Macoupin,Nilwood,39.396075,-89.80973900000001
+Illinois,Madison,Alton,38.890186,-90.148031
+Illinois,Madison,Maryville,38.726573,-89.959963
+Illinois,Madison,Not in a city,38.869001000000004,-89.622816
+Illinois,Madison,Wood River,38.860669,-90.105851
+Illinois,McHenry,Cary,42.221442,-88.242207
+Illinois,McLean,Normal,40.518735,-88.99689599999998
+Illinois,Monroe,Not in a city,38.15908,-90.22728000000001
+Illinois,Peoria,Peoria,40.68742,-89.606943
+Illinois,Peoria,Peoria Heights,40.745504,-89.58586899999999
+Illinois,Randolph,Not in a city,38.176278,-89.78845899999997
+Illinois,Rock Island,Rock Island Arsenal (U.S. Army),41.514727,-90.51735
+Illinois,Saint Clair,East Saint Louis,38.612034,-90.160477
+Illinois,Sangamon,Springfield,39.831522,-89.64092600000001
+Illinois,Tazewell,Pekin,40.556459999999994,-89.654028
+Illinois,Wabash,Mount Carmel,38.397789,-87.773853
+Illinois,Will,Braidwood,41.221537,-88.190967
+Illinois,Winnebago,Loves Park,42.334982000000004,-89.037775
+Indiana,Allen,Fort Wayne,41.094965,-85.101816
+Indiana,Allen,Leo-Cedarville,41.221418,-85.016821
+Indiana,Bartholomew,Hope,39.294321999999994,-85.76681599999998
+Indiana,Boone,Not in a city,39.997732,-86.395394
+Indiana,Brown,Not in a city,39.263914,-86.29226899999998
+Indiana,Carroll,Not in a city,40.540455,-86.553035
+Indiana,Clark,Not in a city,38.393822,-85.664118
+Indiana,Daviess,Not in a city,38.573253,-87.214613
+Indiana,Delaware,Albany,40.300385,-85.245862
+Indiana,Elkhart,Bristol,41.716959,-85.824696
+Indiana,Floyd,New Albany,38.30703,-85.832974
+Indiana,Gibson,Not in a city,38.392991,-87.748323
+Indiana,Greene,Not in a city,38.985477,-86.99041899999999
+Indiana,Hamilton,Noblesville,40.068296999999994,-85.992451
+Indiana,Hendricks,Avon,39.758707,-86.3985
+Indiana,Howard,Kokomo,40.481347,-86.10968799999998
+Indiana,Huntington,Roanoke,40.959604,-85.37961
+Indiana,Jackson,Not in a city,38.920835,-86.080523
+Indiana,Johnson,Trafalgar,39.417243,-86.152363
+Indiana,Knox,Not in a city,38.7408,-87.48530000000002
+Indiana,LaPorte,La Porte,41.629167,-86.684444
+Indiana,LaPorte,Michigan City,41.717762,-86.907786
+Indiana,Lake,East Chicago,41.641259500000004,-87.44849449999998
+Indiana,Lake,Gary,41.606667,-87.304722
+Indiana,Lake,Hammond,41.639444,-87.493611
+Indiana,Madison,Not in a city,40.002511,-85.656391
+Indiana,Marion,Indianapolis,39.768056,-86.16
+Indiana,Marion,Indianapolis (Remainder),39.78199837962964,-86.13957341666665
+Indiana,Marion,Lawrence,39.858889000000005,-86.021389
+Indiana,Morgan,Martinsville,39.514179,-86.391795
+Indiana,Morgan,Monrovia,39.575634,-86.47789300000001
+Indiana,Perry,Not in a city,38.115152,-86.60325
+Indiana,Pike,Not in a city,38.518935,-87.248598
+Indiana,Porter,Dune Acres,41.634104,-87.101452
+Indiana,Porter,Not in a city,41.512118,-87.036236
+Indiana,Porter,Ogden Dunes (Wickliffe),41.6175,-87.199167
+Indiana,Porter,Portage,41.635404,-87.15056700000001
+Indiana,Posey,Not in a city,38.00641,-87.71835399999998
+Indiana,Shelby,Not in a city,39.613367,-85.87066899999998
+Indiana,St. Joseph,Granger,41.754721999999994,-86.11
+Indiana,St. Joseph,Not in a city,41.551667,-86.37055600000001
+Indiana,St. Joseph,South Bend,41.696659999999994,-86.214722
+Indiana,Vanderburgh,Evansville,37.995506500000005,-87.58702899999999
+Indiana,Vanderburgh,Not in a city,38.113889,-87.53666700000001
+Indiana,Vigo,Not in a city,39.558525,-87.312883
+Indiana,Vigo,Terre Haute,39.4931805,-87.40293074999998
+Indiana,Wabash,Not in a city,40.816038,-85.661408
+Indiana,Warrick,Boonville,38.051667,-87.27805599999998
+Indiana,Warrick,Not in a city,38.014458250000004,-87.32659924999999
+Iowa,Bremer,Waverly,42.743036,-92.51324100000001
+Iowa,Clinton,Clinton,41.849141,-90.19477800000001
+Iowa,Harrison,Not in a city,41.806258500000006,-95.93831
+Iowa,Linn,Cedar Rapids,41.9579705,-91.66517075
+Iowa,Linn,Coggon,42.281013,-91.52687900000001
+Iowa,Montgomery,Not in a city,40.969112,-95.044951
+Iowa,Muscatine,Muscatine,41.40796205555555,-91.06724816666667
+Iowa,Palo Alto,Emmetsburg,43.123704,-94.69351800000001
+Iowa,Polk,Des Moines,41.603159000000005,-93.643118
+Iowa,Polk,Polk City,41.849433000000005,-93.69761700000001
+Iowa,Scott,Davenport,41.6145925,-90.5547775
+Iowa,Van Buren,Not in a city,40.695078,-92.00631800000001
+Iowa,Warren,Not in a city,41.285533,-93.583983
+Iowa,Woodbury,Not in a city,42.329489,-96.36851300000001
+Kansas,Johnson,Not in a city,38.838575,-94.746424
+Kansas,Leavenworth,Leavenworth,39.327391,-94.95102
+Kansas,Neosho,Not in a city,37.67696,-95.47594000000001
+Kansas,Sedgwick,Not in a city,37.897506,-97.492083
+Kansas,Sedgwick,Wichita,37.702066,-97.314847
+Kansas,Shawnee,Topeka,39.024265,-95.711275
+Kansas,Sumner,Not in a city,37.476890000000004,-97.366399
+Kansas,Trego,Not in a city,38.770081,-99.763424
+Kansas,Wyandotte,Kansas City,39.117219,-94.635605
+Kentucky,Bell,Middlesborough (corporate name for Middlesboro),36.60843,-83.73693999999998
+Kentucky,Boone,Not in a city,38.91833,-84.852637
+Kentucky,Boyd,Ashland,38.459340000000005,-82.64041
+Kentucky,Bullitt,Shepherdsville,37.986290000000004,-85.71191999999998
+Kentucky,Campbell,Highland Heights,39.021881,-84.47444999999998
+Kentucky,Carter,Not in a city,38.23887,-82.9881
+Kentucky,Christian,Not in a city,36.91171,-87.323337
+Kentucky,Daviess,Not in a city,37.780776,-87.075307
+Kentucky,Edmonson,Not in a city,37.13179,-86.14295299999998
+Kentucky,Fayette,Lexington-Fayette (corporate name for Lexington),38.06503,-84.49761
+Kentucky,Greenup,Worthington,38.548136,-82.731163
+Kentucky,Hancock,Lewisport,37.93829,-86.89719000000001
+Kentucky,Hardin,Elizabethtown,37.705612,-85.85262900000001
+Kentucky,Henderson,Not in a city,37.7627905,-87.48758849999997
+Kentucky,Jefferson,Jeffersontown,38.18250000000001,-85.5744
+Kentucky,Jefferson,Louisville,38.164966212121215,-85.74386939393939
+Kentucky,Jessamine,Nicholasville,37.89147,-84.58825
+Kentucky,Livingston,Not in a city,37.155392,-88.394024
+Kentucky,McCracken,Paducah,37.05822,-88.57251
+Kentucky,Morgan,Not in a city,37.9214,-83.06620000000002
+Kentucky,Oldham,Buckner,38.40020000000001,-85.44427999999998
+Kentucky,Perry,Hazard,37.28329,-83.20931999999998
+Kentucky,Pike,Pikeville,37.48260000000001,-82.53532
+Kentucky,Pulaski,Somerset,37.09798,-84.61152
+Kentucky,Simpson,Franklin,36.708607,-86.566284
+Kentucky,Trigg,Not in a city,36.7841,-87.8499
+Kentucky,Warren,Smiths Grove,37.04926,-86.21486999999998
+Kentucky,Washington,Not in a city,37.7046,-85.0485
+Louisiana,Ascension,Not in a city,30.229653000000003,-90.96562800000001
+Louisiana,Bossier,Shreveport,32.536273,-93.74894
+Louisiana,Caddo,Not in a city,32.68336,-93.861582
+Louisiana,Calcasieu,Carlyss,30.140265000000003,-93.368448
+Louisiana,Calcasieu,Lake Charles,30.103752000000004,-93.285497
+Louisiana,Calcasieu,Vinton,30.227797999999996,-93.579965
+Louisiana,Calcasieu,Westlake (RR name West Lake),30.262604,-93.285084
+Louisiana,East Baton Rouge,Baton Rouge,30.484067300000003,-91.1969175
+Louisiana,East Baton Rouge,Not in a city,30.700895000000003,-91.05606800000001
+Louisiana,Iberville,Not in a city,30.221255,-91.31541800000001
+Louisiana,Iberville,St. Gabriel,30.204218,-91.126041
+Louisiana,Jefferson,Kenner,30.041238,-90.272826
+Louisiana,Lafayette,Lafayette,30.22611,-92.042908
+Louisiana,Lafourche,Thibodaux,29.764098,-90.765275
+Louisiana,Livingston,French Settlement,30.315406,-90.811383
+Louisiana,Orleans,New Orleans,29.996013,-90.11819
+Louisiana,Ouachita,Monroe,32.509959,-92.046196
+Louisiana,Pointe Coupee,Not in a city,30.681718,-91.366247
+Louisiana,St. Bernard,Chalmette,29.943164000000003,-89.97625
+Louisiana,St. Bernard,Meraux,29.939614000000002,-89.92388299999998
+Louisiana,St. Charles,Norco,29.997696,-90.411095
+Louisiana,St. James,Gramercy,30.052636,-90.670016
+Louisiana,St. James,Not in a city,29.994970000000002,-90.817415
+Louisiana,St. John the Baptist,Garyville,30.057515000000002,-90.619286
+Louisiana,St. Martin,St. Martinville,30.088872,-91.869595
+Louisiana,St. Tammany,Not in a city,30.429381,-90.199678
+Louisiana,West Baton Rouge,Addis,30.327723,-91.284108
+Louisiana,West Baton Rouge,Not in a city,30.500642,-91.21355600000001
+Maine,Androscoggin,Not in a city,43.974622,-70.124608
+Maine,Aroostook,Not in a city,46.6041,-68.4135
+Maine,Aroostook,Presque Isle,46.696431,-68.033006
+Maine,Cumberland,Not in a city,43.561043,-70.207324
+Maine,Cumberland,Portland,43.660246,-70.26896500000001
+Maine,Hancock,Not in a city,44.3643735,-68.24394000000001
+Maine,Kennebec,Gardiner,44.230622,-69.785
+Maine,Knox,Not in a city,43.917955,-69.26059000000001
+Maine,Oxford,Not in a city,44.377794,-70.854697
+Maine,Penobscot,Not in a city,44.735978,-68.67075200000001
+Maine,Washington,Not in a city,44.74777,-67.328299
+Maine,York,Kennebunkport,43.343167,-70.471034
+Maine,York,Not in a city,43.622827,-70.75323900000001
+Maryland,Allegany,Westernport,39.485008500000006,-79.0450915
+Maryland,Anne Arundel,Glen Burnie,39.169533,-76.627933
+Maryland,Anne Arundel,Riviera Beach,39.158911,-76.511025
+Maryland,Baltimore,Cockeysville,39.460478,-76.633543
+Maryland,Baltimore,Essex,39.297424750000005,-76.44198299999998
+Maryland,Baltimore,Lochearn,39.371679,-76.746814
+Maryland,Baltimore (City),Baltimore,39.31327,-76.57883899999999
+Maryland,Calvert,Prince Frederick,38.536722,-76.617194
+Maryland,Carroll,Not in a city,39.444294,-77.04225199999998
+Maryland,Cecil,Not in a city,39.701444,-75.860051
+Maryland,Charles,Not in a city,38.508547,-76.811864
+Maryland,Dorchester,Not in a city,38.516248,-76.12613999999998
+Maryland,Frederick,Frederick,39.42276,-77.37519
+Maryland,Garrett,Grantsville,39.70595,-79.012
+Maryland,Harford,Edgewood,39.410191,-76.29694599999998
+Maryland,Harford,Not in a city,39.563333,-76.20388899999998
+Maryland,Howard,North Laurel,39.14313,-76.84611
+Maryland,Kent,Not in a city,39.305021,-75.79731699999998
+Maryland,Montgomery,Not in a city,39.114313,-77.106876
+Maryland,Prince George's,Beltsville,39.055277000000004,-76.878333
+Maryland,Prince George's,Greater Upper Marlboro,38.81194,-76.74417
+Maryland,Prince George's,Not in a city,39.02840000000001,-76.81710000000002
+Maryland,Washington,Not in a city,39.564178000000005,-77.720244
+Massachusetts,Barnstable,Truro,41.975804,-70.02359799999999
+Massachusetts,Berkshire,Pittsfield,42.452299,-73.239648
+Massachusetts,Bristol,Fairhaven (Town of),41.645381,-70.897504
+Massachusetts,Bristol,Fall River,41.685707,-71.169235
+Massachusetts,Dukes,Aquinnah,41.330469,-70.785225
+Massachusetts,Essex,Haverhill,42.770837,-71.10229
+Massachusetts,Essex,Lynn,42.474642,-70.970816
+Massachusetts,Essex,Newburyport,42.814412,-70.81778299999998
+Massachusetts,Franklin,Greenfield,42.605816,-72.596689
+Massachusetts,Hampden,Chicopee,42.19438,-72.555112
+Massachusetts,Hampden,Springfield,42.1146105,-72.587653
+Massachusetts,Hampshire,Ware (census name for Ware Center),42.298493,-72.334079
+Massachusetts,Middlesex,Chelmsford (Chelmsford Center),42.6193825,-71.334527
+Massachusetts,Norfolk,Milton,42.211774,-71.11397
+Massachusetts,Plymouth,Brockton,42.065106,-71.012129
+Massachusetts,Suffolk,Boston,42.334519666666665,-71.078608
+Massachusetts,Worcester,Uxbridge,42.099699,-71.619399
+Massachusetts,Worcester,Worcester,42.269137,-71.83491649999999
+Michigan,Allegan,Holland,42.767786,-86.148577
+Michigan,Benzie,Benzonia,44.616943,-86.109408
+Michigan,Berrien,Coloma,42.197790000000005,-86.309694
+Michigan,Cass,Cassopolis,41.89557,-86.00162900000001
+Michigan,Chippewa,Sault Ste. Marie,46.493633,-84.364207
+Michigan,Clinton,Lansing,42.798339,-84.393795
+Michigan,Genesee,Flint,43.047224,-83.670159
+Michigan,Genesee,Otisville,43.168336,-83.461541
+Michigan,Huron,Harbor Beach,43.836388,-82.6429
+Michigan,Ingham,Lansing,42.7500025,-84.54870599999998
+Michigan,Kalamazoo,Kalamazoo,42.278067,-85.54189000000001
+Michigan,Kent,Grand Rapids,42.984173,-85.67133899999997
+Michigan,Kent,Not in a city,43.176672,-85.416608
+Michigan,Lenawee,Tecumseh,41.995568,-83.946559
+Michigan,Macomb,New Haven,42.731394,-82.793463
+Michigan,Macomb,Warren,42.51334,-83.005971
+Michigan,Manistee,Manistee,44.306999999999995,-86.242649
+Michigan,Mason,Scottville,43.953334000000005,-86.294415
+Michigan,Missaukee,Not in a city,44.310555,-84.891865
+Michigan,Monroe,Not in a city,41.923582,-83.34573
+Michigan,Muskegon,Muskegon,43.278061,-86.311083
+Michigan,Oakland,Oak Park,42.463063,-83.183199
+Michigan,Ottawa,Jenison,42.894451000000004,-85.852734
+Michigan,Ottawa,Not in a city,42.92361,-86.19648699999998
+Michigan,Schoolcraft,Not in a city,46.288877,-85.950227
+Michigan,St. Clair,Port Huron,42.8608008,-82.4805418
+Michigan,Tuscola,Not in a city,43.61380000000001,-83.3591
+Michigan,Washtenaw,Not in a city,42.416636,-83.902185
+Michigan,Washtenaw,Ypsilanti,42.240565000000004,-83.59960199999998
+Michigan,Wayne,Allen Park,42.22862,-83.2082
+Michigan,Wayne,Detroit,42.314071117028064,-83.14353358101616
+Michigan,Wayne,Livonia,42.421502000000004,-83.42504199999998
+Michigan,Wayne,Not in a city,42.386811,-83.27050600000001
+Michigan,Wexford,Not in a city,44.180890000000005,-85.738985
+Minnesota,Anoka,Blaine,45.13768,-93.207615
+Minnesota,Anoka,East Bethel,45.40184,-93.20306
+Minnesota,Becker,Detroit Lakes,46.851811,-95.846272
+Minnesota,Carlton,Cloquet,46.713694,-92.511722
+Minnesota,Crow Wing,Brainerd,46.39674,-94.1303
+Minnesota,Dakota,Inver Grove Heights (RR name Inver Grove),44.77553,-93.06299
+Minnesota,Dakota,Lakeville,44.706123,-93.285803
+Minnesota,Dakota,Rosemount,44.754446,-93.04397999999999
+Minnesota,Goodhue,Not in a city,44.473754,-93.012611
+Minnesota,Hennepin,Minneapolis,44.9731185,-93.26423900000002
+Minnesota,Lake,Not in a city,47.948622,-91.495574
+Minnesota,Lyon,Marshall,44.4438,-95.81789
+Minnesota,Mille Lacs,Onamia,46.2053,-93.75945
+Minnesota,Olmsted,Rochester,43.996908000000005,-92.450366
+Minnesota,Ramsey,St. Paul,44.9558,-93.14585
+Minnesota,Saint Louis,Duluth,46.81826,-92.08936
+Minnesota,Saint Louis,Not in a city,48.41252,-92.829225
+Minnesota,Scott,Shakopee,44.791437,-93.512534
+Minnesota,Stearns,St. Cloud,45.549839,-94.13345
+Minnesota,Washington,Not in a city,45.168004,-92.765136
+Minnesota,Washington,St. Paul Park,44.84737,-92.9954
+Minnesota,Wright,St. Michael,45.20916,-93.66921
+Mississippi,Bolivar,Cleveland,33.748447,-90.7286015
+Mississippi,DeSoto,Hernando,34.821659999999994,-89.98783
+Mississippi,Hancock,Waveland,30.300833,-89.395916
+Mississippi,Harrison,Gulfport,30.390369,-89.04977799999998
+Mississippi,Hinds,Jackson,32.3379165,-90.20419450000001
+Mississippi,Jackson,Pascagoula,30.378287,-88.53393
+Mississippi,Lauderdale,Meridian,32.364565,-88.73149099999998
+Mississippi,Lee,Tupelo,34.264917,-88.766222
+Mississippi,Yalobusha,Not in a city,34.002747,-89.799183
+Missouri,Andrew,Not in a city,39.9544,-94.84899999999999
+Missouri,Boone,Not in a city,39.07803,-92.31632
+Missouri,Callaway,Not in a city,38.70608,-92.09308
+Missouri,Cass,Not in a city,38.75961,-94.57983
+Missouri,Cedar,Not in a city,37.70097,-94.03474
+Missouri,Clay,Kansas City,39.331913,-94.580931
+Missouri,Clay,Not in a city,39.36834775,-94.30723837500001
+Missouri,Clinton,Trimble,39.53063,-94.55594
+Missouri,Franklin,Not in a city,38.539235500000004,-90.84667275
+Missouri,Greene,Not in a city,37.319186,-93.204411
+Missouri,Greene,Springfield,37.256137,-93.299894
+Missouri,Iron,Not in a city,37.646550000000005,-91.13257250000001
+Missouri,Jackson,Kansas City,39.0762985,-94.5106515
+Missouri,Jasper,Not in a city,37.2385,-94.42468000000001
+Missouri,Jefferson,Arnold,38.448672,-90.395904
+Missouri,Jefferson,Herculaneum,38.26351,-90.37993
+Missouri,Jefferson,Not in a city,38.125111000000004,-90.3016015
+Missouri,Lincoln,Foley,39.045770000000005,-90.84927
+Missouri,Monroe,Not in a city,39.474976,-91.78899100000001
+Missouri,New Madrid,Not in a city,36.51033666666667,-89.56422
+Missouri,Perry,Not in a city,37.70264,-89.69864
+Missouri,Saint Charles,Augusta,38.595607,-90.830618
+Missouri,Saint Charles,Not in a city,38.7405995,-90.657349
+Missouri,Saint Charles,West Alton,38.872546,-90.226488
+Missouri,Saint Louis,Bridgeton,38.75264,-90.44884
+Missouri,Saint Louis,Maryland Heights,38.71085,-90.47606
+Missouri,Saint Louis,Not in a city,38.49015,-90.70509
+Missouri,Sainte Genevieve,Not in a city,37.90084,-90.42388000000001
+Missouri,St. Louis City,St. Louis,38.65032594444444,-90.23961944444443
+Missouri,Taney,Branson,36.707727,-93.222
+Montana,Fergus,Not in a city,47.048537,-109.45531499999998
+Montana,Flathead,Not in a city,48.5103,-113.99681000000001
+Montana,Gallatin,Not in a city,44.657014000000004,-111.08961799999999
+Montana,Lewis and Clark,Not in a city,46.8505,-111.98716399999999
+Montana,Missoula,Missoula,46.842181,-114.021499
+Montana,Phillips,Not in a city,48.317507,-107.862471
+Montana,Powder River,Not in a city,45.440295,-105.370283
+Montana,Richland,Not in a city,47.835646,-104.58124799999999
+Montana,Rosebud,Not in a city,45.555399,-106.515269625
+Montana,Yellowstone,Not in a city,45.786579,-108.45878
+Nebraska,Douglas,Omaha,41.26372141666668,-95.96714675000001
+Nebraska,Knox,Not in a city,42.829154,-97.854129
+Nebraska,Lancaster,Not in a city,40.769741499999995,-96.7289315
+Nevada,Carson City,Carson City,39.1447,-119.7661
+Nevada,Churchill,Fallon,39.472471,-118.783624
+Nevada,Clark,Boulder City,35.97814899999999,-114.846313
+Nevada,Clark,Henderson,36.048705,-115.05294199999999
+Nevada,Clark,Indian Springs,36.569333,-115.676651
+Nevada,Clark,Jean,35.785665,-115.357087
+Nevada,Clark,Las Vegas,36.185692413888894,-115.19173999629632
+Nevada,Clark,Mesquite,36.807913,-114.060879
+Nevada,Clark,North Las Vegas,36.191251,-115.12295300000001
+Nevada,Clark,Not in a city,36.358824444444444,-115.25377744444444
+Nevada,Clark,Spring Valley,36.106389,-115.25333300000001
+Nevada,Clark,Sunrise Manor,36.141875,-115.07874199999999
+Nevada,Elko,Not in a city,40.733,-115.23
+Nevada,Lyon,Fernley,39.602787,-119.247741
+Nevada,Washoe,Incline Village-Crystal Bay,39.250409000000005,-119.95673799999999
+Nevada,Washoe,Lemmon Valley-Golden Valley,39.645264000000005,-119.840025
+Nevada,Washoe,Reno,39.476787,-119.78092393333334
+Nevada,Washoe,Sparks,39.561046250000004,-119.73976325000001
+Nevada,White Pine,Not in a city,39.00512,-114.21593
+New Hampshire,Belknap,Laconia,43.566122,-71.496335
+New Hampshire,Cheshire,Keene,42.930521,-72.27233199999998
+New Hampshire,Coos,Not in a city,44.28911250000001,-71.26072999999998
+New Hampshire,Grafton,Lebanon,43.629605,-72.309499
+New Hampshire,Grafton,Not in a city,43.944519,-71.700788
+New Hampshire,Hillsborough,Nashua,42.718653,-71.52241599999998
+New Hampshire,Hillsborough,Peterborough (Peterboro),42.86183,-71.878626
+New Hampshire,Merrimack,Concord,43.2185,-71.5145
+New Hampshire,Merrimack,Suncook,43.13246,-71.458246
+New Hampshire,Rockingham,Londonderry,42.862531,-71.38014
+New Hampshire,Rockingham,Portsmouth,43.075371000000004,-70.74801699999998
+New Hampshire,Rockingham,Rye,43.045269,-70.71395799999998
+New Jersey,Atlantic,Galloway (Township of),39.464872,-74.448736
+New Jersey,Bergen,Fort Lee,40.85355,-73.96618000000001
+New Jersey,Bergen,Leonia,40.870436,-73.99199399999998
+New Jersey,Camden,Camden,39.934559,-75.125219
+New Jersey,Camden,Winslow (Township of),39.68425,-74.861491
+New Jersey,Cumberland,Millville,39.422273,-75.025204
+New Jersey,Essex,Newark,40.720989,-74.192892
+New Jersey,Gloucester,East Greenwich (Township of),39.800339,-75.212119
+New Jersey,Hudson,Bayonne,40.67025,-74.126081
+New Jersey,Hudson,Jersey City,40.731645,-74.06630799999998
+New Jersey,Hunterdon,Flemington,40.515262,-74.806671
+New Jersey,Mercer,Lawrence (Township of),40.283092,-74.74261299999998
+New Jersey,Mercer,Not in a city,40.3125,-74.8729
+New Jersey,Middlesex,East Brunswick (Township of),40.462182,-74.429439
+New Jersey,Monmouth,West Long Branch,40.277647,-74.0051
+New Jersey,Morris,Chester,40.787628000000005,-74.676301
+New Jersey,Ocean,Jackson (Township of),40.06483,-74.44404999999998
+New Jersey,Passaic,Wanaque (Wanaque-Midvale),41.058617,-74.255544
+New Jersey,Union,Elizabeth,40.6519375,-74.21160950000001
+New Jersey,Warren,Knowlton (Township of),40.92458,-75.067815
+New Mexico,Bernalillo,Albuquerque,35.15975,-106.546675
+New Mexico,Bernalillo,South Valley,35.01708,-106.65739
+New Mexico,Dona Ana,Las Cruces,32.317592999999995,-106.76833700000002
+New Mexico,Dona Ana,Not in a city,31.849431000000003,-106.60402782142856
+New Mexico,Eddy,Carlsbad,32.380118,-104.262726
+New Mexico,Eddy,Not in a city,32.1782285,-104.4420235
+New Mexico,Lea,Hobbs,32.726656,-103.122917
+New Mexico,Rio Arriba,Not in a city,36.187742,-106.698369
+New Mexico,San Juan,Bloomfield,36.742227,-107.977567
+New Mexico,San Juan,Not in a city,36.54713400000001,-108.00983233333334
+New Mexico,San Juan,Shiprock,36.8071,-108.69523000000001
+New Mexico,Sandoval,Not in a city,35.299484,-106.548914
+New Mexico,Sandoval,Santa Ana Pueblo,35.338407000000004,-106.52429199999999
+New Mexico,Santa Fe,Not in a city,35.61975,-106.07968000000001
+New Mexico,Valencia,Not in a city,34.8147,-106.7396
+New York,Albany,Albany,42.68075,-73.75733000000001
+New York,Bronx,New York,40.84195,-73.890045
+New York,Chautauqua,Dunkirk,42.49963,-79.31881
+New York,Dutchess,Millbrook,41.78555,-73.74136
+New York,Erie,Amherst,42.99328,-78.77153
+New York,Erie,Buffalo,42.876907,-78.80952599999998
+New York,Erie,Cheektowaga,42.921107,-78.76582499999998
+New York,Erie,Tonawanda,42.99813,-78.89926
+New York,Essex,Not in a city,44.24408666666666,-73.99507333333334
+New York,Franklin,Not in a city,44.70741850000001,-74.47046750000001
+New York,Hamilton,Not in a city,43.44957,-74.51625
+New York,Herkimer,Not in a city,43.68578,-74.98537999999998
+New York,Jefferson,Not in a city,44.08747,-75.97316
+New York,Monroe,Rochester,43.1455965,-77.552725
+New York,Nassau,East Meadow,40.74316,-73.58549000000001
+New York,New York,New York,40.81976,-73.94825
+New York,Niagara,Middleport,43.22386,-78.47887999999998
+New York,Onondaga,East Syracuse,43.05235,-76.05921
+New York,Orange,Montgomery,41.52375,-74.21534
+New York,Oswego,Fulton,43.28428,-76.46324
+New York,Putnam,Not in a city,41.455890000000004,-73.70976999999998
+New York,Queens,New York,40.73770199999999,-73.81961199999999
+New York,Richmond,New York,40.588454999999996,-74.161785
+New York,Rockland,Not in a city,41.18208,-74.02819000000001
+New York,Saratoga,Not in a city,43.01209,-73.6489
+New York,Seneca,Not in a city,42.574106,-76.7026
+New York,St. Lawrence,Not in a city,44.962926,-74.8832
+New York,Steuben,Not in a city,42.09142,-77.20978000000001
+New York,Suffolk,East Farmingdale,40.745290000000004,-73.41919
+New York,Suffolk,Holtsville,40.82799,-73.05754
+New York,Suffolk,Old Field,40.961017,-73.139046
+New York,Suffolk,Riverhead,40.96078,-72.71238000000001
+New York,Tompkins,Lansing (South Lansing),42.613199,-76.6152
+New York,Tompkins,Not in a city,42.4006,-76.6538
+New York,Wayne,Not in a city,43.23086,-77.17135999999998
+New York,Westchester,White Plains,41.05192,-73.76366
+North Carolina,Alexander,Taylorsville,35.9138,-81.191
+North Carolina,Avery,Not in a city,36.0390735,-81.989236
+North Carolina,Beaufort,Bath,35.42800000000001,-76.74
+North Carolina,Brunswick,Southport,33.942221999999994,-78.01916700000001
+North Carolina,Buncombe,Bent Creek,35.500102000000005,-82.59985999999998
+North Carolina,Buncombe,Royal Pines,35.481963,-82.50971899999998
+North Carolina,Caldwell,Lenoir,35.93590000000001,-81.5306
+North Carolina,Carteret,Not in a city,34.8848,-76.6203
+North Carolina,Caswell,Not in a city,36.307033000000004,-79.467417
+North Carolina,Cumberland,Fayetteville,35.002303999999995,-78.991692
+North Carolina,Cumberland,Wade,35.158686,-78.72803499999998
+North Carolina,Durham,Durham,36.032955,-78.904037
+North Carolina,Edgecombe,Leggett,35.988278,-77.5843
+North Carolina,Forsyth,Not in a city,36.05097,-80.14365699999998
+North Carolina,Forsyth,Winston-Salem,36.089519749999994,-80.2553285
+North Carolina,Graham,Not in a city,35.2578,-83.7955
+North Carolina,Granville,Butner,36.141111,-78.768056
+North Carolina,Guilford,Greensboro,36.109006,-79.802314
+North Carolina,Haywood,Not in a city,35.443195499999995,-82.8780625
+North Carolina,Haywood,Waynesville,35.58714399999999,-83.074156
+North Carolina,Haywood,West Canton,35.534102000000004,-82.852868
+North Carolina,Jackson,Not in a city,35.524544,-83.23598100000001
+North Carolina,Johnston,Not in a city,35.59095,-78.46220000000002
+North Carolina,Lee,Sanford,35.43250000000001,-79.2887
+North Carolina,Lenoir,Kinston,35.231459,-77.568792
+North Carolina,Lincoln,Lincolnton,35.438556,-81.27674999999998
+North Carolina,Macon,Not in a city,35.0608,-83.4306
+North Carolina,Martin,Jamesville,35.81066,-76.906249
+North Carolina,Mecklenburg,Charlotte,35.239258875000004,-80.80980662499998
+North Carolina,Montgomery,Not in a city,35.26320000000001,-79.8365
+North Carolina,New Hanover,Castle Hayne,34.364167,-77.838611
+North Carolina,New Hanover,Not in a city,34.268403,-77.956529
+North Carolina,Northampton,Gaston,36.511708,-77.655389
+North Carolina,Person,Not in a city,36.3984925,-79.075121
+North Carolina,Pitt,Not in a city,35.641276,-77.360126
+North Carolina,Rockingham,Not in a city,36.308889,-79.859167
+North Carolina,Rowan,Rockwell,35.551868,-80.395039
+North Carolina,Swain,Bryson City (RR name Bryson),35.434767,-83.442133
+North Carolina,Swain,Not in a city,35.498711,-83.310242
+North Carolina,Union,Monroe,34.974039000000005,-80.540622
+North Carolina,Wake,Not in a city,35.8652,-78.8197
+North Carolina,Wake,Raleigh,35.856111,-78.574167
+North Carolina,Yancey,Not in a city,35.76541299999999,-82.264944
+North Dakota,Billings,Not in a city,46.8943,-103.37853
+North Dakota,Burke,Not in a city,48.64193,-102.4018
+North Dakota,Burleigh,Bismarck,46.825425,-100.76821
+North Dakota,Cass,Not in a city,46.933754,-96.85535
+North Dakota,Dunn,Dunn Center,47.342423,-102.645864
+North Dakota,Dunn,Not in a city,47.3132,-102.5273
+North Dakota,McKenzie,Not in a city,47.584309375,-103.67241766666666
+North Dakota,Mercer,Not in a city,47.354518500000005,-101.83319005555556
+North Dakota,Oliver,Not in a city,47.185833,-101.42805600000001
+North Dakota,Stutsman,Not in a city,46.921525,-98.498569
+North Dakota,Ward,Not in a city,47.940861,-101.57158299999999
+North Dakota,Williams,Not in a city,48.41462794444445,-102.90579294444444
+North Dakota,Williams,Williston,48.15278,-103.63951
+Ohio,Adams,West Union,38.79471,-83.53398
+Ohio,Allen,Lima,40.770944,-84.0539
+Ohio,Ashtabula,Conneaut,41.959695,-80.572808
+Ohio,Belmont,Shadyside,39.9679,-80.74640000000002
+Ohio,Butler,Hamilton,39.384671000000004,-84.540537
+Ohio,Butler,Middletown,39.48219066666667,-84.39965172222222
+Ohio,Butler,Not in a city,39.5327,-84.7286
+Ohio,Clark,Enon,39.85567,-83.99772999999998
+Ohio,Clark,Springfield,40.00103,-83.80456
+Ohio,Clermont,Batavia,39.0828,-84.14410000000002
+Ohio,Clinton,Not in a city,39.430038,-83.78850200000001
+Ohio,Columbiana,East Liverpool,40.631545,-80.54718100000001
+Ohio,Cuyahoga,Berea,41.361835,-81.86457
+Ohio,Cuyahoga,Cleveland,41.503707947916666,-81.66005819791665
+Ohio,Cuyahoga,Mayfield,41.536942,-81.458871
+Ohio,Cuyahoga,Newburgh Heights,41.446624,-81.662356
+Ohio,Cuyahoga,Warrensville Heights,41.44013,-81.494833
+Ohio,Delaware,Delaware,40.356694,-83.063971
+Ohio,Fayette,Not in a city,39.6359,-83.26050000000002
+Ohio,Franklin,Columbus,40.05836821428572,-83.00553592857143
+Ohio,Franklin,New Albany,40.084514,-82.815585
+Ohio,Gallia,Cheshire,38.9353936,-82.1235688
+Ohio,Geauga,Not in a city,41.515051,-81.24990600000001
+Ohio,Greene,Xenia,39.66575,-83.94268000000001
+Ohio,Hamilton,Blue Ash,39.2787,-84.36625
+Ohio,Hamilton,Cincinnati,39.136727291666666,-84.51977687499999
+Ohio,Hamilton,Cleves,39.21487,-84.69086
+Ohio,Harrison,Not in a city,40.332933000000004,-80.93340099999998
+Ohio,Jefferson,Not in a city,40.2657255,-80.63476849999999
+Ohio,Jefferson,Steubenville,40.366440000000004,-80.61558000000001
+Ohio,Knox,Centerburg,40.2944425,-82.6856435
+Ohio,Lake,Eastlake,41.673006,-81.422455
+Ohio,Lake,Mentor,41.66693,-81.33872
+Ohio,Lake,Painesville,41.726811,-81.24215600000001
+Ohio,Lawrence,Ironton,38.508075,-82.65924100000001
+Ohio,Lawrence,Not in a city,38.62901,-82.45886
+Ohio,Licking,Heath (Fourmile Lock),40.026037,-82.432996
+Ohio,Licking,Reynoldsburg,39.954457,-82.75891999999997
+Ohio,Lorain,Sheffield,41.420882,-82.09572899999998
+Ohio,Lucas,Not in a city,41.669001,-83.28716999999999
+Ohio,Lucas,Toledo,41.6537485,-83.51099500000001
+Ohio,Lucas,Waterville,41.4942,-83.718949
+Ohio,Madison,Not in a city,39.78819,-83.47605999999998
+Ohio,Mahoning,Youngstown,41.096188,-80.658867
+Ohio,Medina,Not in a city,41.0604,-81.9239
+Ohio,Miami,Casstown,40.08502,-84.11380799999998
+Ohio,Montgomery,Dayton,39.771777,-84.16320250000001
+Ohio,Morgan,Not in a city,39.63223,-81.67005
+Ohio,Noble,Not in a city,39.94280000000001,-81.3373
+Ohio,Portage,Not in a city,41.182466,-81.330486
+Ohio,Preble,New Paris,39.83562,-84.720524
+Ohio,Scioto,Franklin Furnace,38.593360000000004,-82.83185774999998
+Ohio,Scioto,Portsmouth,38.754599,-82.91700999999998
+Ohio,Stark,Alliance,40.93133,-81.12351899999999
+Ohio,Stark,Brewster,40.712778,-81.598333
+Ohio,Stark,Canton,40.8144185,-81.37575000000001
+Ohio,Summit,Akron,41.083057,-81.496246
+Ohio,Trumbull,Not in a city,41.3475105,-80.626124
+Ohio,Warren,Lebanon,39.42689,-84.20076999999998
+Ohio,Washington,Marietta,39.432117,-81.46044300000001
+Ohio,Wood,Bowling Green,41.377685,-83.611104
+Oklahoma,Adair,Cherry Tree,35.750735,-94.669697
+Oklahoma,Bryan,Durant,33.945379,-96.405726
+Oklahoma,Caddo,Anadarko,35.111944,-98.252778
+Oklahoma,Canadian,Yukon,35.479215,-97.751503
+Oklahoma,Carter,Healdton,34.244189,-97.46293100000001
+Oklahoma,Cherokee,Park Hill,35.85408,-94.985964
+Oklahoma,Choctaw,Hugo,34.153,-95.3213
+Oklahoma,Cleveland,Moore,35.320105,-97.484099
+Oklahoma,Comanche,Lawton,34.63298,-98.42879
+Oklahoma,Creek,Mannford,36.105481,-96.361196
+Oklahoma,Dewey,Seiling,36.158414,-98.931973
+Oklahoma,Garfield,Enid,36.512363,-97.845959
+Oklahoma,Grady,Bradley,34.877064000000004,-97.707801
+Oklahoma,Jefferson,Waurika,34.226639,-98.03544000000001
+Oklahoma,Johnston,Tishomingo,34.214818,-96.676936
+Oklahoma,Kay,Not in a city,36.956222,-97.03135
+Oklahoma,Kay,Ponca City,36.697186,-97.08135
+Oklahoma,Lincoln,Not in a city,35.4884,-97.090278
+Oklahoma,Love,Not in a city,33.880812,-97.275896
+Oklahoma,Mayes,Not in a city,36.228408,-95.249943
+Oklahoma,Mayes,Pryor (corporate name Pryor Creek),36.228993,-95.269196
+Oklahoma,McClain,Goldsby,35.159649,-97.473794
+Oklahoma,Muskogee,Fort Gibson,35.775813,-95.28706700000001
+Oklahoma,Muskogee,Muskogee,35.79313399999999,-95.302235
+Oklahoma,Nowata,South Coffeyville,36.918409999999994,-95.632286
+Oklahoma,Oklahoma,Choctaw,35.477801,-97.303044
+Oklahoma,Oklahoma,Oklahoma City,35.53141233333333,-97.515791
+Oklahoma,Osage,Skiatook,36.35586,-96.01243000000001
+Oklahoma,Ottawa,Miami,36.922222,-94.838889
+Oklahoma,Ottawa,Wyandotte,36.804669,-94.725024
+Oklahoma,Pittsburg,McAlester,34.885608000000005,-95.78441
+Oklahoma,Sequoyah,Roland,35.40814,-94.524413
+Oklahoma,Tulsa,Glenpool,35.953708,-96.004975
+Oklahoma,Tulsa,Tulsa,36.16359680000001,-95.96252902500001
+Oklahoma,Washington,Copan,36.512368,-95.882622
+Oregon,Clackamas,Not in a city,45.25928,-122.588151
+Oregon,Columbia,Not in a city,45.768531,-122.7721
+Oregon,Jackson,Not in a city,42.229891,-122.7877
+Oregon,Lane,Eugene,44.026312,-123.08373700000001
+Oregon,Lane,Not in a city,43.83450000000001,-123.0353
+Oregon,Marion,Not in a city,44.81029,-122.915085
+Oregon,Marion,Salem,44.943114,-123.00593400000001
+Oregon,Multnomah,Portland,45.5196515,-122.597348875
+Oregon,Umatilla,Hermiston,45.828968,-119.26299099999999
+Oregon,Wasco,City of The Dalles,45.602419,-121.203387
+Oregon,Washington,Not in a city,45.402446000000005,-122.854437
+Oregon,Washington,Tualatin,45.393497,-122.74789399999999
+Pennsylvania,Adams,Not in a city,39.92156000000001,-77.30874
+Pennsylvania,Allegheny,Avalon,40.499767,-80.071337
+Pennsylvania,Allegheny,Harrison Township,40.617488,-79.72766399999998
+Pennsylvania,Allegheny,Liberty,40.323768,-79.868062
+Pennsylvania,Allegheny,McDonald,40.375644,-80.16994299999998
+Pennsylvania,Allegheny,North Braddock,40.402328000000004,-79.860973
+Pennsylvania,Allegheny,Pittsburgh,40.4543935,-79.975525
+Pennsylvania,Allegheny,Wilkinsburg,40.43743,-79.86357199999998
+Pennsylvania,Armstrong,Kittanning,40.814183,-79.56474999999998
+Pennsylvania,Beaver,Beaver Falls,40.747796,-80.31644200000001
+Pennsylvania,Beaver,Not in a city,40.62362099999999,-80.43183499999998
+Pennsylvania,Berks,Not in a city,40.448715,-75.87916050000001
+Pennsylvania,Blair,Altoona,40.535278000000005,-78.37083299999998
+Pennsylvania,Bradford,Not in a city,41.705226,-76.512726
+Pennsylvania,Bucks,Bristol,40.107222,-74.882222
+Pennsylvania,Cambria,Johnstown,40.309722,-78.915
+Pennsylvania,Centre,Not in a city,40.7208,-77.9319
+Pennsylvania,Centre,State College,40.811389,-77.877028
+Pennsylvania,Chester,Not in a city,39.834461,-75.768242
+Pennsylvania,Clearfield,Not in a city,41.1175,-78.52619399999998
+Pennsylvania,Dauphin,Hershey,40.272222,-76.681389
+Pennsylvania,Dauphin,Not in a city,40.246992,-76.846988
+Pennsylvania,Delaware,Chester,39.835556,-75.3725
+Pennsylvania,Elk,Not in a city,41.598119,-78.76786700000001
+Pennsylvania,Erie,Erie,42.14175,-80.038611
+Pennsylvania,Fayette,Uniontown,39.917663,-79.805499
+Pennsylvania,Franklin,Not in a city,39.961111,-77.47555600000001
+Pennsylvania,Greene,Not in a city,39.80933,-80.26567
+Pennsylvania,Indiana,Not in a city,40.56333,-78.919972
+Pennsylvania,Lackawanna,Blakely,41.479116,-75.578186
+Pennsylvania,Lackawanna,Scranton,41.442778000000004,-75.62305599999998
+Pennsylvania,Lancaster,Lancaster,40.046667,-76.283333
+Pennsylvania,Lancaster,Not in a city,40.043833,-76.11240000000002
+Pennsylvania,Lawrence,New Castle,40.995848,-80.34644200000001
+Pennsylvania,Lebanon,Not in a city,40.337328,-76.38344699999998
+Pennsylvania,Lehigh,Allentown,40.611944,-75.4325
+Pennsylvania,Luzerne,Wilkes-Barre,41.265556,-75.846389
+Pennsylvania,Lycoming,Montoursville,41.25080000000001,-76.9238
+Pennsylvania,Mercer,Farrell,41.215014000000004,-80.484779
+Pennsylvania,Mercer,Not in a city,41.4271,-80.1451
+Pennsylvania,Monroe,Not in a city,41.08306,-75.32328000000001
+Pennsylvania,Montgomery,Norristown,40.112222,-75.309167
+Pennsylvania,Northampton,Freemansburg,40.628056,-75.341111
+Pennsylvania,Northampton,Wilson,40.692224,-75.237156
+Pennsylvania,Philadelphia,Philadelphia,40.01187210964912,-75.08461068421052
+Pennsylvania,Somerset,Not in a city,39.9878,-79.25150000000002
+Pennsylvania,Tioga,Not in a city,41.644721999999994,-76.939167
+Pennsylvania,Warren,Not in a city,41.844722,-79.169722
+Pennsylvania,Warren,Warren,41.825708,-79.119952
+Pennsylvania,Washington,Charleroi,40.146667,-79.902222
+Pennsylvania,Washington,Not in a city,40.3571205,-80.33241399999999
+Pennsylvania,Washington,Washington,40.170556,-80.26138900000001
+Pennsylvania,Westmoreland,Greensburg,40.304694,-79.505667
+Pennsylvania,York,Not in a city,39.86097,-76.46205499999998
+Pennsylvania,York,Spring Grove,39.8751,-76.912256
+Pennsylvania,York,York,39.965278000000005,-76.699444
+Puerto Rico,Bayamon,Bayamon,18.420089,-66.150615
+Puerto Rico,Caguas,Caguas,18.198712,-66.05223699999999
+Puerto Rico,Catano,Catano,18.435991,-66.134107
+Puerto Rico,Guayama,Guayama,17.967309,-66.186149
+Puerto Rico,Guaynabo,Guaynabo,18.422595,-66.120012
+Puerto Rico,Juncos,Not in a city,18.177939000000002,-65.915482
+Puerto Rico,Mayagnez,Mayaguez,18.216038,-67.14410699999999
+Puerto Rico,Ponce,Ponce,18.009558,-66.62724899999999
+Puerto Rico,Salinas,Not in a city,17.953006,-66.261461
+Puerto Rico,San Juan,San Juan,18.449814,-66.05251
+Rhode Island,Kent,Not in a city,41.615237,-71.72
+Rhode Island,Providence,East Providence,41.841039,-71.36097
+Rhode Island,Providence,Providence,41.8275255,-71.41136750000001
+Rhode Island,Washington,Not in a city,41.49511,-71.423705
+South Carolina,Abbeville,Due West,34.325318,-82.386376
+South Carolina,Aiken,Jackson,33.342226000000004,-81.788731
+South Carolina,Anderson,Not in a city,34.623236,-82.53205899999998
+South Carolina,Anderson,Pendleton,34.635957999999995,-82.81066700000001
+South Carolina,Berkeley,Moncks Corner,33.183015999999995,-80.030712
+South Carolina,Berkeley,Not in a city,32.987252000000005,-79.9367
+South Carolina,Charleston,North Charleston,32.882289,-79.977538
+South Carolina,Charleston,Not in a city,32.941023,-79.657187
+South Carolina,Chesterfield,Not in a city,34.615367,-80.198787
+South Carolina,Colleton,Not in a city,33.007866,-80.96503799999998
+South Carolina,Darlington,Not in a city,34.285696,-79.74485899999998
+South Carolina,Edgefield,Not in a city,33.739963,-81.853635
+South Carolina,Greenville,Greenville,34.843895,-82.414585
+South Carolina,Greenville,Simpsonville,34.751847999999995,-82.25670099999998
+South Carolina,Horry,Conway,33.8005,-78.9941
+South Carolina,Lexington,Seven Oaks,34.051017,-81.15495
+South Carolina,Oconee,Not in a city,34.805261,-83.2377
+South Carolina,Pickens,Not in a city,34.752571499999995,-82.79161749999999
+South Carolina,Richland,Dentsville (Dents),34.093959000000005,-80.962304
+South Carolina,Richland,Not in a city,33.972971,-80.8247265
+South Carolina,Spartanburg,Not in a city,34.988706,-82.075802
+South Carolina,York,Not in a city,34.977000000000004,-81.20700000000002
+South Carolina,York,Rock Hill,34.9127,-80.8745
+South Dakota,Brookings,Not in a city,44.348604,-96.807299
+South Dakota,Custer,Not in a city,43.55764,-103.48386
+South Dakota,Jackson,Not in a city,43.74561,-101.941218
+South Dakota,Meade,Not in a city,44.155636,-103.315765
+South Dakota,Minnehaha,Sioux Falls,43.54792,-96.700769
+South Dakota,Pennington,Rapid City,44.087397,-103.273777
+South Dakota,Union,Not in a city,42.751518,-96.707208
+Tennessee,Anderson,Oak Ridge,35.964969,-84.22317
+Tennessee,Blount,Not in a city,35.62164844444444,-83.8801635
+Tennessee,Claiborne,Not in a city,36.46983,-83.826511
+Tennessee,Davidson,Nashville,36.177927000000004,-86.6840085
+Tennessee,Davidson,Nashville-Davidson (Remainder),36.1424,-86.7341
+Tennessee,DeKalb,Not in a city,36.0388,-85.73310000000002
+Tennessee,Hamilton,Chattanooga,35.102638,-85.162194
+Tennessee,Hamilton,Soddy-Daisy,35.233476,-85.18158100000001
+Tennessee,Jefferson,New Market,36.105629,-83.60207700000001
+Tennessee,Knox,Knoxville,36.019186,-83.87380999999998
+Tennessee,Knox,Mascot,36.085508000000004,-83.76480600000001
+Tennessee,Loudon,Loudon,35.721095,-84.343035
+Tennessee,Sevier,Not in a city,35.629815,-83.5537765
+Tennessee,Shelby,Memphis,35.1743079,-89.90720669999999
+Tennessee,Shelby,Millington,35.378153000000005,-89.83447
+Tennessee,Sullivan,Bloomingdale,36.58211,-82.485742
+Tennessee,Sullivan,Kingsport,36.52425029761905,-82.51685686904761
+Tennessee,Sullivan,Not in a city,36.541365,-82.424555
+Tennessee,Sumner,Hendersonville,36.29756,-86.653137
+Tennessee,Williamson,Fairview,35.949765,-87.138246
+Tennessee,Wilson,Not in a city,36.060895,-86.28629099999998
+Texas,Bell,Killeen,31.088002000000003,-97.679734
+Texas,Bell,Temple,31.122419,-97.43105200000001
+Texas,Bexar,San Antonio,29.441253134615383,-98.44188627564102
+Texas,Brazoria,Lake Jackson,29.043759,-95.472946
+Texas,Brazoria,Manvel,29.520443,-95.392509
+Texas,Brewster,Not in a city,29.30265,-103.17781
+Texas,Cameron,Brownsville,25.892518,-97.49383
+Texas,Cameron,Harlingen,26.200335,-97.712684
+Texas,Collin,Frisco,33.132400000000004,-96.786419
+Texas,Culberson,Not in a city,31.891389,-104.809722
+Texas,Dallas,Dallas,32.84057277272728,-96.82800865909093
+Texas,Denton,Denton,33.219069,-97.196284
+Texas,Denton,Pilot Point,33.410647999999995,-96.94459
+Texas,El Paso,El Paso,31.78743199679487,-106.44272625961538
+Texas,Ellis,Italy,32.175417,-96.870189
+Texas,Ellis,Midlothian,32.482083,-97.026899
+Texas,Freestone,Fairfield,31.797813,-96.1031
+Texas,Galveston,Galveston,29.254474,-94.861289
+Texas,Galveston,Texas City,29.385234,-94.93152
+Texas,Gregg,Longview,32.378696000000005,-94.711813
+Texas,Harris,Baytown,29.791104,-95.03161499999999
+Texas,Harris,Channelview,29.802707,-95.125495
+Texas,Harris,Deer Park,29.670025,-95.128508
+Texas,Harris,Houston,29.744600634300586,-95.35567312715774
+Texas,Harris,Seabrook,29.583047,-95.015544
+Texas,Harris,Tomball,30.039524,-95.673951
+Texas,Harrison,Hallsville,32.470228000000006,-94.481595
+Texas,Harrison,Not in a city,32.669001,-94.167468
+Texas,Hidalgo,Mission,26.22621,-98.291069
+Texas,Hood,Granbury,32.442304,-97.803529
+Texas,Howard,Big Spring,32.280421999999994,-101.407137
+Texas,Hunt,Greenville,33.153088000000004,-96.115572
+Texas,Hutchinson,Borger,35.6762,-101.4401
+Texas,Jefferson,Beaumont,30.036422,-94.071061
+Texas,Jefferson,Nederland,29.978926,-94.010872
+Texas,Jefferson,Not in a city,29.795944000000002,-94.10594150000001
+Texas,Jefferson,Port Arthur,29.895016399999996,-93.9861604
+Texas,Johnson,Cleburne,32.353595,-97.43674200000001
+Texas,Karnes,Karnes City,28.880440000000004,-97.888065
+Texas,Kaufman,Kaufman,32.564968,-96.317687
+Texas,McLennan,Waco,31.653086,-97.070704
+Texas,Milam,Rockdale,30.569534,-97.076294
+Texas,Montgomery,Conroe,30.350302000000003,-95.425128
+Texas,Navarro,Corsicana,32.031934,-96.399141
+Texas,Navarro,Richland,31.904100000000003,-96.352
+Texas,Nueces,Corpus Christi,27.800747333333334,-97.47373400000001
+Texas,Orange,Orange,30.153675,-93.725897
+Texas,Orange,West Orange,30.085263,-93.761341
+Texas,Parker,Weatherford,32.868773,-97.90593100000001
+Texas,Polk,Not in a city,30.7017,-94.6742
+Texas,Potter,Amarillo,35.276618000000006,-101.76460250000001
+Texas,Randall,Not in a city,34.8803,-101.6649
+Texas,Robertson,Franklin,31.168889,-96.481944
+Texas,Rockwall,Rockwall,32.936523,-96.459211
+Texas,Rusk,Tatum,32.277929,-94.570851
+Texas,Smith,Tyler,32.344027000000004,-95.415754
+Texas,Tarrant,Arlington,32.656369999999995,-97.088598
+Texas,Tarrant,Eagle Mountain,32.987891,-97.477175
+Texas,Tarrant,Fort Worth,32.79836208333334,-97.32809950000001
+Texas,Tarrant,Grapevine,32.98426,-97.063721
+Texas,Titus,Not in a city,33.0752,-94.8474
+Texas,Travis,Austin,30.354148,-97.72595749999999
+Texas,Travis,Leander,30.483163,-97.875084
+Texas,Victoria,Victoria,28.836214000000002,-97.005525
+Texas,Webb,Laredo,27.509641000000002,-99.509103
+Texas,Wilson,Floresville,29.1307,-98.1481
+Utah,Box Elder,Brigham City,41.492707,-112.01886299999998
+Utah,Box Elder,Not in a city,41.945874,-112.233973
+Utah,Cache,Smithfield,41.842649,-111.852199
+Utah,Carbon,Price,39.60996,-110.800749
+Utah,Davis,Bountiful,40.902967,-111.88446699999999
+Utah,Duchesne,Not in a city,40.216779,-110.18274199999999
+Utah,Duchesne,Roosevelt,40.294178,-110.009732
+Utah,Garfield,Escalante,37.775544000000004,-111.615473
+Utah,Iron,Enoch,37.74743,-113.055525
+Utah,Salt Lake,Herriman,40.496392,-112.036298
+Utah,Salt Lake,Magna,40.712146000000004,-112.111275
+Utah,Salt Lake,Midvale,40.598056,-111.894167
+Utah,Salt Lake,Murray,40.662878000000006,-111.90118799999999
+Utah,Salt Lake,Not in a city,40.569,-111.65899999999999
+Utah,Salt Lake,Salt Lake City,40.763292443333334,-111.91152174833333
+Utah,San Juan,Not in a city,38.14066,-109.79613
+Utah,Tooele,Erda,40.600532,-112.35341399999999
+Utah,Uintah,Not in a city,40.207674751449275,-109.54372412173916
+Utah,Uintah,Vernal,40.46471,-109.561472
+Utah,Utah,Lindon,40.341389,-111.71361100000001
+Utah,Utah,Provo,40.253611,-111.66305600000001
+Utah,Utah,Spanish Fork,40.136336,-111.66050200000001
+Utah,Washington,Hurricane,37.179125,-113.305096
+Utah,Washington,Virgin,37.1983,-113.1506
+Utah,Weber,Harrisville,41.303614,-111.987871
+Utah,Weber,Ogden,41.206321,-111.975524
+Vermont,Bennington,Bennington,42.88759,-73.24983999999998
+Vermont,Chittenden,Burlington,44.4762,-73.2106
+Vermont,Chittenden,Underhill (Town of),44.52839,-72.86883999999998
+Vermont,Rutland,Rutland,43.608056,-72.982778
+Virginia,Albemarle,Not in a city,38.076570000000004,-78.50397
+Virginia,Arlington,Arlington,38.8577,-77.05922
+Virginia,Botetourt,Troutville,37.447965,-79.986486
+Virginia,Caroline,Not in a city,38.20087,-77.37742
+Virginia,Charles,Not in a city,37.34438,-77.25925
+Virginia,Chesterfield,Not in a city,37.35748,-77.59355
+Virginia,Covington City,Covington,37.791389,-79.990833
+Virginia,Fairfax,Groveton,38.77335,-77.10468
+Virginia,Fairfax,Springfield,38.76835,-77.18347
+Virginia,Fauquier,Not in a city,38.47367,-77.76772
+Virginia,Frederick,Not in a city,39.28102,-78.08157
+Virginia,Giles,Not in a city,37.358000000000004,-80.60585
+Virginia,Hampton City,Hampton,37.103733,-76.387017
+Virginia,Hanover,Not in a city,37.60613,-77.2188
+Virginia,Henrico,East Highland Park,37.55652,-77.40026999999998
+Virginia,Loudoun,Not in a city,39.02473,-77.48925
+Virginia,Madison,Not in a city,38.5231,-78.43471
+Virginia,Norfolk City,Norfolk,36.85555,-76.30135
+Virginia,Prince Edward,Not in a city,37.1655,-78.3069
+Virginia,Prince William,Not in a city,38.85287,-77.63462
+Virginia,Richmond City,Richmond,37.59088,-77.46925
+Virginia,Roanoke,Vinton,37.28342,-79.88452
+Virginia,Rockbridge,Not in a city,37.62668,-79.51257
+Virginia,Rockingham,Not in a city,38.47753,-78.81952
+Virginia,Stafford,Aquia Harbour,38.48123,-77.3704
+Virginia,Suffolk City,Suffolk,36.783215,-76.58443
+Virginia,Wythe,Not in a city,36.89117,-81.25422999999998
+Washington,Benton,Kennewick,46.204582,-119.243743
+Washington,Chelan,Not in a city,47.334444,-120.095556
+Washington,Clallam,Not in a city,48.29786,-124.62491000000001
+Washington,Clark,Vancouver,45.616667,-122.516667
+Washington,Grant,Quincy,47.241153000000004,-119.847824
+Washington,King,Enumclaw,47.1411,-121.9379
+Washington,King,Issaquah,47.5525,-122.064722
+Washington,King,North Bend (Northbend),47.49022,-121.77278000000001
+Washington,King,Seattle,47.582729,-122.31417499999999
+Washington,Pierce,Not in a city,46.7841,-121.740367
+Washington,Pierce,Tacoma,47.22634,-122.46256000000001
+Washington,Skagit,Anacortes,48.49025900000001,-122.56733399999999
+Washington,Skagit,Not in a city,48.397787,-122.504971
+Washington,Spokane,Cheney,47.41645,-117.52997
+Washington,Spokane,Not in a city,47.82728,-117.27422
+Washington,Thurston,Lacey,47.029396000000006,-122.82154799999999
+Washington,Thurston,Yelm,46.952562,-122.59527
+Washington,Whatcom,Custer,48.95074,-122.55441
+Washington,Whatcom,Ferndale,48.84986725,-122.69284100000002
+West Virginia,Berkeley,Martinsburg,39.448105,-77.96384499999998
+West Virginia,Brooke,Beech Bottom,40.240877000000005,-80.65033000000001
+West Virginia,Brooke,Follansbee,40.341023,-80.59663499999998
+West Virginia,Brooke,Not in a city,40.389655,-80.586235
+West Virginia,Brooke,Weirton,40.394651,-80.611813
+West Virginia,Cabell,Huntington,38.4171875,-82.429168
+West Virginia,Gilmer,Not in a city,38.8795,-80.8477
+West Virginia,Greenbrier,Not in a city,37.908533,-80.632633
+West Virginia,Hancock,Chester,40.61572,-80.56
+West Virginia,Hancock,Not in a city,40.59602000000001,-80.54947875
+West Virginia,Hancock,Weirton,40.443755,-80.58444249999998
+West Virginia,Kanawha,Charleston,38.346258,-81.621161
+West Virginia,Marshall,Moundsville,39.915961,-80.733858
+West Virginia,Mason,Not in a city,38.956476,-82.08869299999998
+West Virginia,Mineral,Keyser,39.4452,-79.0691
+West Virginia,Monongalia,Morgantown,39.649367,-79.920867
+West Virginia,Ohio,Wheeling,40.114876,-80.700972
+West Virginia,Tucker,Not in a city,39.0905,-79.66170000000002
+West Virginia,Wood,Vienna,39.323533000000005,-81.55236699999998
+Wisconsin,Ashland,Not in a city,46.602248,-90.656141
+Wisconsin,Brown,Green Bay,44.519135000000006,-87.95071499999999
+Wisconsin,Columbia,Not in a city,43.3156,-89.1089
+Wisconsin,Dane,Madison,43.100838,-89.357298
+Wisconsin,Dodge,Horicon,43.466111,-88.621111
+Wisconsin,Door,Not in a city,45.23840000000001,-86.994
+Wisconsin,Eau Claire,Not in a city,44.7614,-91.14299999999999
+Wisconsin,Fond du Lac,Not in a city,43.687402,-88.422045
+Wisconsin,Forest,Not in a city,45.56500000000001,-88.8086
+Wisconsin,Jefferson,Not in a city,43.0034,-88.8283
+Wisconsin,Kenosha,Kenosha,42.5958,-87.8858
+Wisconsin,Kenosha,Pleasant Prairie,42.504721999999994,-87.80930000000002
+Wisconsin,Kewaunee,Kewaunee,44.44312,-87.50524
+Wisconsin,La Crosse,La Crosse,43.7775,-91.2269
+Wisconsin,Manitowoc,Not in a city,44.138619,-87.6161
+Wisconsin,Marathon,Not in a city,44.70735,-89.77183000000001
+Wisconsin,Milwaukee,Bayside,43.1818,-87.90100000000002
+Wisconsin,Milwaukee,Milwaukee,43.007317625,-87.923818625
+Wisconsin,Oneida,Rhinelander,45.64505,-89.41848
+Wisconsin,Outagamie,Appleton,44.30738,-88.395178
+Wisconsin,Outagamie,Kaukauna,44.289283000000005,-88.252186
+Wisconsin,Ozaukee,Not in a city,43.42055,-87.86500000000001
+Wisconsin,Racine,Racine,42.773677,-87.796306
+Wisconsin,Rock,Beloit,42.51831,-89.06347
+Wisconsin,Sauk,Not in a city,43.43510000000001,-89.67970000000003
+Wisconsin,Sheboygan,Not in a city,43.7044625,-87.7352185
+Wisconsin,Taylor,Not in a city,45.2066,-90.5969
+Wisconsin,Vilas,Not in a city,46.0519,-89.65400000000002
+Wisconsin,Walworth,Elkhorn,42.662178000000004,-88.48710600000001
+Wisconsin,Walworth,Not in a city,42.580009000000004,-88.49904599999998
+Wisconsin,Waukesha,Waukesha,43.020075,-88.21507
+Wyoming,Albany,Laramie,41.30283,-105.586
+Wyoming,Albany,Not in a city,41.3642,-106.2399
+Wyoming,Big Horn,Not in a city,44.28,-108.04111100000001
+Wyoming,Campbell,Not in a city,44.34990183333334,-105.35396505555555
+Wyoming,Carbon,Not in a city,41.386944,-107.61666699999999
+Wyoming,Carbon,Sinclair,41.78534888888889,-107.1020272222222
+Wyoming,Converse,Glenrock,42.77612,-105.79821000000001
+Wyoming,Converse,Not in a city,43.18231575,-105.47133975
+Wyoming,Fremont,Not in a city,42.88048946666667,-108.06683143333335
+Wyoming,Johnson,Kaycee,43.87483,-106.50974
+Wyoming,Laramie,Cheyenne,41.13069,-104.75308000000001
+Wyoming,Laramie,Not in a city,41.1337935,-104.650552
+Wyoming,Natrona,Brookhurst,42.86080000000001,-106.23586
+Wyoming,Natrona,Casper,42.834305,-106.32134
+Wyoming,Park,Cody,44.52612,-109.01673000000001
+Wyoming,Sheridan,Not in a city,44.933611,-106.847222
+Wyoming,Sheridan,Sheridan,44.80353,-106.96176299999999
+Wyoming,Sublette,Not in a city,42.67744110494506,-109.86087217362638
+Wyoming,Sweetwater,James Town,41.55643,-109.53043999999998
+Wyoming,Sweetwater,Not in a city,41.60019413541667,-109.19747192708334
+Wyoming,Sweetwater,Point of Rocks,41.74649,-108.80373
+Wyoming,Teton,Jackson,43.48256,-110.74526000000002
+Wyoming,Teton,Not in a city,44.181836375,-110.58263774999999
+Wyoming,Uinta,Not in a city,41.373096999999994,-111.042376
+Wyoming,Weston,Newcastle,43.84539,-104.20512
+Wyoming,Weston,Not in a city,43.873056,-104.19194399999999

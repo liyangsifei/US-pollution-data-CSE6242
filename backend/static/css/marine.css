@@ -1,0 +1,101 @@
+.nav-bar{
+	padding-top: 12px;
+  background-color: #3d7c69;
+	padding-left: 50px;
+	height: 125px;
+}
+.sub-nav{
+	background-color: #79c9b1;
+}
+.head-btn {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.space{
+  height: 30px;
+  fill: #87CEEB;
+  width: 100%;
+  background-color: #87CEEB;
+}
+#container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.states {
+    fill: grey;
+    stroke: white;
+    stroke-width: 1px;
+    transition: fill .1s linear;
+}
+#tooltip {
+    position: absolute;
+    width: auto;
+    height: auto;
+    padding: 10px;
+    opacity: 0.8;
+    background-color: white;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+    -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+    pointer-events: none;
+}
+#tooltip.hidden {
+    display: none;
+}
+
+#tooltip p {
+    line-height: 1.2;
+    padding: 15px;
+    background: rgba(50, 50, 50, 0.8);
+    color: #fff;
+    border-radius: 2px;
+}
+.ticks {
+	font-size: 10px;
+}
+.track,
+.track-inset,
+.track-overlay {
+    stroke-linecap: round;
+}
+.track {
+    stroke: #000;
+    stroke-opacity: 0.3;
+    stroke-width: 10px;
+}
+.track-inset {
+    stroke: #dcdcdc;
+    stroke-width: 8px;
+}
+.track-overlay {
+    pointer-events: stroke;
+    stroke-width: 50px;
+    stroke: transparent;
+    cursor: crosshair;
+}
+.handle {
+    fill: #fff;
+    stroke: #000;
+    stroke-opacity: 0.5;
+    stroke-width: 1.25px;
+}
+h1 {font-family: Arial, sans-serif;}
+body {
+    font: 11px Arial;
+}
+.d3-tip {
+	 line-height: 1.2;
+	 padding: 15px;
+	 background: rgba(50, 50, 50, 0.8);
+	 color: #fff;
+	 border-radius: 2px;
+}
+
+.choropleth {
+    background-color: #87CEEB;
+}
